@@ -19,7 +19,7 @@
 *                           HelmetEnchant      (not dropped)
 *                           Beast              (not dropped)
 *                           Vial               (too specific of a drop)
-*                           UniqueRelic        (no relevant of a drop for EB)
+*                           UniqueRelic        (not relevant of a drop for EB)
 *                           ClusterJewel       (itemlevel very important, manual setup)
 *                           BlightedMap        (covered by taking all maps)
 *                           BlightRavagedMap   (covered by taking all maps)

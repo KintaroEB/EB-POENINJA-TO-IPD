@@ -1,0 +1,110 @@
+﻿[Type] == "Chaos Orb" # [StashItem] == "true"
+[Type] == "Mirror of Kalandra" # [StashItem] == "true" // 111907.75
+[Type] == "Hinekora's Lock" # [StashItem] == "true" // 11084.30
+[Type] == "Mirror Shard" # [StashItem] == "true" // 5372.19
+[Type] == "Veiled Orb" # [StashItem] == "true" // 1829.10
+[Type] == "Fracturing Orb" # [StashItem] == "true" // 618.97
+[Type] == "Tainted Divine Teardrop" # [StashItem] == "true" // 557.72
+[Type] == "Orb of Dominance" # [StashItem] == "true" // 359.42
+[Type] == "Reality Fragment" # [StashItem] == "true" // 197.81
+[Type] == "Tempering Orb" # [StashItem] == "true" // 173.51
+[Type] == "Tailoring Orb" # [StashItem] == "true" // 173.51
+[Type] == "Awakener's Orb" # [StashItem] == "true" // 161.12
+[Type] == "Orb of Conflict" # [StashItem] == "true" // 160.38
+[Type] == "Blessing of Chayula" # [StashItem] == "true" // 151.20
+[Type] == "Sacred Crystallised Lifeforce" # [StashItem] == "true" // 147.09
+[Type] == "Crusader's Exalted Orb" # [StashItem] == "true" // 123.94
+[Type] == "Divine Orb" # [StashItem] == "true" // 122.81
+[Type] == "Hunter's Exalted Orb" # [StashItem] == "true" // 110.00
+[Type] == "Exceptional Eldritch Ichor" # [StashItem] == "true" // 94.03
+[Type] == "Exceptional Eldritch Ember" # [StashItem] == "true" // 90.00
+[Type] == "Devouring Fragment" # [StashItem] == "true" // 85.00
+[Type] == "Decaying Fragment" # [StashItem] == "true" // 63.00
+[Type] == "Blessing of Xoph" # [StashItem] == "true" // 50.00
+[Type] == "Redeemer's Exalted Orb" # [StashItem] == "true" // 44.00
+[Type] == "Warlord's Exalted Orb" # [StashItem] == "true" // 44.00
+[Type] == "Blessing of Tul" # [StashItem] == "true" // 40.00
+[Type] == "Blessing of Esh" # [StashItem] == "true" // 40.00
+[Type] == "Blessing of Uul-Netol" # [StashItem] == "true" // 40.00
+[Type] == "Sacred Orb" # [StashItem] == "true" // 39.00
+[Type] == "Eldritch Chaos Orb" # [StashItem] == "true" // 35.00
+[Type] == "Blazing Fragment" # [StashItem] == "true" // 35.00
+[Type] == "Eldritch Orb of Annulment" # [StashItem] == "true" // 31.00
+[Type] == "Tainted Exalted Orb" # [StashItem] == "true" // 30.00
+[Type] == "Tainted Orb of Fusing" # [StashItem] == "true" // 24.00
+[Type] == "Fracturing Shard" # [StashItem] == "true" // 17.03
+[Type] == "Prismatic Catalyst" # [StashItem] == "true" // 15.00
+[Type] == "Fertile Catalyst" # [StashItem] == "true" // 14.00
+[Type] == "Tainted Mythic Orb" # [StashItem] == "true" // 13.00
+[Type] == "Synthesising Fragment" # [StashItem] == "true" // 11.27
+[Type] == "Oil Extractor" # [StashItem] == "true" // 10.90
+[Type] == "Grand Eldritch Ember" # [StashItem] == "true" // 10.33
+[Type] == "Cosmic Fragment" # [StashItem] == "true" // 8.26
+[Type] == "Grand Eldritch Ichor" # [StashItem] == "true" // 8.00
+[Type] == "Tainted Chromatic Orb" # [StashItem] == "true" // 7.00
+[Type] == "Ritual Vessel" # [StashItem] == "true" // 6.72
+[Type] == "Exalted Orb" # [StashItem] == "true" // 6.46
+[Type] == "Eldritch Exalted Orb" # [StashItem] == "true" // 6.00
+[Type] == "Tainted Chaos Orb" # [StashItem] == "true" // 5.00
+[Type] == "Comprehensive Scouting Report" # [StashItem] == "true" // 5.00
+[Type] == "Orb of Annulment" # [StashItem] == "true" // 4.41
+[Type] == "Awakening Fragment" # [StashItem] == "true" // 4.00
+[Type] == "Tainted Catalyst" # [StashItem] == "true" // 3.54
+[Type] == "Greater Eldritch Ember" # [StashItem] == "true" // 2.64
+[Type] == "Ancient Orb" # [StashItem] == "true" // 2.21
+[Type] == "Otherworldly Scouting Report" # [StashItem] == "true" // 2.00
+[Type] == "Influenced Scouting Report" # [StashItem] == "true" // 2.00
+[Type] == "Veiled Scarab" # [StashItem] == "true" // 2.00
+[Type] == "Intrinsic Catalyst" # [StashItem] == "true" // 1.90
+[Type] == "Stacked Deck" # [StashItem] == "true" // 1.50
+[Type] == "Tainted Jeweller's Orb" # [StashItem] == "true" // 1.50
+[Type] == "Tainted Armourer's Scrap" # [StashItem] == "true" // 1.50
+[Type] == "Greater Eldritch Ichor" # [StashItem] == "true" // 1.38
+[Type] == "Harbinger's Orb" # [StashItem] == "true" // 1.13
+[Type] == "Annulment Shard" # [StashItem] == "true" // 1.00
+[Type] == "Turbulent Catalyst" # [StashItem] == "true" // 1.00
+[Type] == "Tempering Catalyst" # [StashItem] == "true" // 1.00
+[Type] == "Accelerating Catalyst" # [StashItem] == "true" // 1.00
+[Type] == "Unstable Catalyst" # [StashItem] == "true" // 1.00
+[Type] == "Singular Scouting Report" # [StashItem] == "true" // 1.00
+[Type] == "Delirious Scouting Report" # [StashItem] == "true" // 1.00
+[Type] == "Operative's Scouting Report" # [StashItem] == "true" // 1.00
+[Type] == "Blighted Scouting Report" # [StashItem] == "true" // 1.00
+[Type] == "Noxious Catalyst" # [StashItem] == "true" // 0.99
+[Type] == "Gemcutter's Prism" # [StashItem] == "true" // 0.68
+[Type] == "Enkindling Orb" # [StashItem] == "true" // 0.65
+[Type] == "Vaal Orb" # [StashItem] == "true" // 0.55
+[Type] == "Exalted Shard" # [StashItem] == "true" // 0.50
+[Type] == "Imbued Catalyst" # [StashItem] == "true" // 0.50
+[Type] == "Abrasive Catalyst" # [StashItem] == "true" // 0.50
+[Type] == "Regal Orb" # [StashItem] == "true" // 0.48
+[Type] == "Lesser Eldritch Ember" # [StashItem] == "true" // 0.36
+[Type] == "Orb of Unmaking" # [StashItem] == "true" // 0.34
+[Type] == "Tainted Blacksmith's Whetstone" # [StashItem] == "true" // 0.33
+[Type] == "Vaal Scouting Report" # [StashItem] == "true" // 0.33
+[Type] == "Explorer's Scouting Report" # [StashItem] == "true" // 0.30
+[Type] == "Lesser Eldritch Ichor" # [StashItem] == "true" // 0.28
+[Type] == "Orb of Scouring" # [StashItem] == "true" // 0.25
+[Type] == "Blessed Orb" # [StashItem] == "true" // 0.25
+[Type] == "Orb of Regret" # [StashItem] == "true" // 0.21
+[Type] == "Orb of Alteration" # [StashItem] == "true" // 0.20
+[Type] == "Cartographer's Chisel" # [StashItem] == "true" // 0.19
+[Type] == "Glassblower's Bauble" # [StashItem] == "true" // 0.18
+[Type] == "Orb of Horizons" # [StashItem] == "true" // 0.17
+[Type] == "Engineer's Orb" # [StashItem] == "true" // 0.17
+[Type] == "Instilling Orb" # [StashItem] == "true" // 0.14
+[Type] == "Chromatic Orb" # [StashItem] == "true" // 0.12
+[Type] == "Orb of Alchemy" # [StashItem] == "true" // 0.11
+[Type] == "Orb of Fusing" # [StashItem] == "true" // 0.08
+[Type] == "Orb of Augmentation" # [StashItem] == "true" // 0.08
+[Type] == "Orb of Binding" # [StashItem] == "true" // 0.08
+[Type] == "Jeweller's Orb" # [StashItem] == "true" // 0.07
+[Type] == "Orb of Chance" # [StashItem] == "true" // 0.06
+[Type] == "Portal Scroll" # [StashItem] == "true" // 0.04
+[Type] == "Vivid Crystallised Lifeforce" # [StashItem] == "true" // 0.03
+[Type] == "Blacksmith's Whetstone" # [StashItem] == "true" // 0.02
+[Type] == "Orb of Transmutation" # [StashItem] == "true" // 0.01
+[Type] == "Scroll of Wisdom" # [StashItem] == "true" // 0.01
+[Type] == "Armourer's Scrap" # [StashItem] == "true" // 0.01
+[Type] == "Wild Crystallised Lifeforce" # [StashItem] == "true" // 0.01
+[Type] == "Primal Crystallised Lifeforce" # [StashItem] == "true" // 0.01

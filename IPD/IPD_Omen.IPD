@@ -1,0 +1,12 @@
+﻿[Type] == "Omen of Fortune" # [StashItem] == "true" // 368.43
+[Type] == "Omen of Connections" # [StashItem] == "true" // 122.81
+[Type] == "Omen of Blanching" # [StashItem] == "true" // 55.00
+[Type] == "Omen of Amelioration" # [StashItem] == "true" // 50.00
+[Type] == "Omen of the Jeweller" # [StashItem] == "true" // 10.00
+[Type] == "Omen of Brilliance" # [StashItem] == "true" // 3.03
+[Type] == "Omen of the Soul Devourer" # [StashItem] == "true" // 1.00
+[Type] == "Omen of Return" # [StashItem] == "true" // 1.00
+[Type] == "Omen of Death's Door" # [StashItem] == "true" // 1.00
+[Type] == "Omen of Refreshment" # [StashItem] == "true" // 1.00
+[Type] == "Omen of Death-dancing" # [StashItem] == "true" // 1.00
+[Type] == "Omen of Adrenaline" # [StashItem] == "true" // 1.00

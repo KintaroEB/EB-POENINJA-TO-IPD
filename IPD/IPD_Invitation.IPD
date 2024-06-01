@@ -1,0 +1,4 @@
+﻿[Type] == "Incandescent Invitation" # [StashItem] == "true" // 100.00
+[Type] == "Screaming Invitation" # [StashItem] == "true" // 70.00
+[Type] == "Polaric Invitation" # [StashItem] == "true" // 5.00
+[Type] == "Writhing Invitation" # [StashItem] == "true" // 3.00

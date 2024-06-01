@@ -1,0 +1,76 @@
+﻿[Type] == "Visceral Reliquary Key" # [StashItem] == "true" // 2108.00
+[Type] == "Archive Reliquary Key" # [StashItem] == "true" // 1240.00
+[Type] == "Forgotten Reliquary Key" # [StashItem] == "true" // 868.00
+[Type] == "Oubliette Reliquary Key" # [StashItem] == "true" // 868.00
+[Type] == "Cosmic Reliquary Key" # [StashItem] == "true" // 868.00
+[Type] == "Valdo's Puzzle Box" # [StashItem] == "true" // 768.80
+[Type] == "Decaying Reliquary Key" # [StashItem] == "true" // 558.00
+[Type] == "Chayula's Flawless Breachstone" # [StashItem] == "true" // 248.00
+[Type] == "Voidborn Reliquary Key" # [StashItem] == "true" // 248.00
+[Type] == "Xoph's Flawless Breachstone" # [StashItem] == "true" // 186.00
+[Type] == "Sacred Blossom" # [StashItem] == "true" // 147.53
+[Type] == "Tul's Flawless Breachstone" # [StashItem] == "true" // 124.00
+[Type] == "Esh's Flawless Breachstone" # [StashItem] == "true" // 124.00
+[Type] == "Uul-Netol's Flawless Breachstone" # [StashItem] == "true" // 124.00
+[Type] == "Gift to the Goddess" # [StashItem] == "true" // 100.00
+[Type] == "Fragment of Terror" # [StashItem] == "true" // 90.00
+[Type] == "Fragment of Emptiness" # [StashItem] == "true" // 90.00
+[Type] == "The Maven's Writ" # [StashItem] == "true" // 85.00
+[Type] == "Simulacrum" # [StashItem] == "true" // 83.00
+[Type] == "Fragment of Knowledge" # [StashItem] == "true" // 79.00
+[Type] == "Fragment of Shape" # [StashItem] == "true" // 78.10
+[Type] == "Einhar's Memory" # [StashItem] == "true" // 60.00
+[Type] == "Unrelenting Timeless Karui Emblem" # [StashItem] == "true" // 55.67
+[Type] == "Unrelenting Timeless Eternal Emblem" # [StashItem] == "true" // 54.26
+[Type] == "Mortal Ignorance" # [StashItem] == "true" // 50.00
+[Type] == "Dedication to the Goddess" # [StashItem] == "true" // 48.00
+[Type] == "Chayula's Breachstone" # [StashItem] == "true" // 40.00
+[Type] == "Unrelenting Timeless Maraketh Emblem" # [StashItem] == "true" // 40.00
+[Type] == "Unrelenting Timeless Templar Emblem" # [StashItem] == "true" // 40.00
+[Type] == "Uul-Netol's Breachstone" # [StashItem] == "true" // 29.55
+[Type] == "Fragment of Enslavement" # [StashItem] == "true" // 28.00
+[Type] == "Fragment of Eradication" # [StashItem] == "true" // 25.00
+[Type] == "Fragment of Constriction" # [StashItem] == "true" // 25.00
+[Type] == "Fragment of Purification" # [StashItem] == "true" // 25.00
+[Type] == "Unrelenting Timeless Vaal Emblem" # [StashItem] == "true" // 25.00
+[Type] == "Mortal Rage" # [StashItem] == "true" // 20.00
+[Type] == "Mortal Grief" # [StashItem] == "true" // 15.00
+[Type] == "Esh's Breachstone" # [StashItem] == "true" // 15.00
+[Type] == "Mortal Hope" # [StashItem] == "true" // 12.00
+[Type] == "Xoph's Breachstone" # [StashItem] == "true" // 10.00
+[Type] == "Tul's Breachstone" # [StashItem] == "true" // 10.00
+[Type] == "Al-Hezmin's Crest" # [StashItem] == "true" // 10.00
+[Type] == "Baran's Crest" # [StashItem] == "true" // 10.00
+[Type] == "Veritania's Crest" # [StashItem] == "true" // 10.00
+[Type] == "Drox's Crest" # [StashItem] == "true" // 9.30
+[Type] == "Tribute to the Goddess" # [StashItem] == "true" // 9.00
+[Type] == "Crescent Splinter" # [StashItem] == "true" // 9.00
+[Type] == "Timeless Templar Emblem" # [StashItem] == "true" // 8.86
+[Type] == "Fragment of the Hydra" # [StashItem] == "true" // 8.00
+[Type] == "Fragment of the Phoenix" # [StashItem] == "true" // 8.00
+[Type] == "Fragment of the Minotaur" # [StashItem] == "true" // 8.00
+[Type] == "Fragment of the Chimera" # [StashItem] == "true" // 8.00
+[Type] == "Timeless Maraketh Emblem" # [StashItem] == "true" // 6.82
+[Type] == "Niko's Memory" # [StashItem] == "true" // 5.00
+[Type] == "Alva's Memory" # [StashItem] == "true" // 5.00
+[Type] == "Kirac's Memory" # [StashItem] == "true" // 5.00
+[Type] == "Offering to the Goddess" # [StashItem] == "true" // 4.00
+[Type] == "Timeless Vaal Emblem" # [StashItem] == "true" // 3.54
+[Type] == "Timeless Karui Emblem" # [StashItem] == "true" // 2.25
+[Type] == "Timeless Eternal Emblem" # [StashItem] == "true" // 2.25
+[Type] == "Divine Vessel" # [StashItem] == "true" // 1.00
+[Type] == "Sacrifice at Midnight" # [StashItem] == "true" // 0.72
+[Type] == "Splinter of Uul-Netol" # [StashItem] == "true" // 0.50
+[Type] == "Splinter of Chayula" # [StashItem] == "true" // 0.50
+[Type] == "Sacrifice at Noon" # [StashItem] == "true" // 0.33
+[Type] == "Simulacrum Splinter" # [StashItem] == "true" // 0.33
+[Type] == "Timeless Templar Splinter" # [StashItem] == "true" // 0.32
+[Type] == "Splinter of Xoph" # [StashItem] == "true" // 0.25
+[Type] == "Splinter of Tul" # [StashItem] == "true" // 0.25
+[Type] == "Splinter of Esh" # [StashItem] == "true" // 0.25
+[Type] == "Sacrifice at Dusk" # [StashItem] == "true" // 0.20
+[Type] == "Sacrifice at Dawn" # [StashItem] == "true" // 0.20
+[Type] == "Timeless Maraketh Splinter" # [StashItem] == "true" // 0.20
+[Type] == "Timeless Karui Splinter" # [StashItem] == "true" // 0.17
+[Type] == "Timeless Eternal Empire Splinter" # [StashItem] == "true" // 0.17
+[Type] == "Timeless Vaal Splinter" # [StashItem] == "true" // 0.17

@@ -1,0 +1,266 @@
+﻿[UniqueName] == "Atziri's Rule" # [ForceSellItem] == "true" // 7368.60
+[UniqueName] == "Voidforge" # [ForceSellItem] == "true" // 5059.77
+[UniqueName] == "Oni-Goroshi" # [ForceSellItem] == "true" // 1228.10
+[UniqueName] == "Echoforge" # [ForceSellItem] == "true" // 1228.10
+[UniqueName] == "The Saviour" # [ForceSellItem] == "true" // 982.48
+[UniqueName] == "Grace of the Goddess" # [ForceSellItem] == "true" // 933.36
+[UniqueName] == "Atziri's Disfavour" # [ForceSellItem] == "true" // 892.83
+[UniqueName] == "The Annihilating Light" # [ForceSellItem] == "true" // 638.61
+[UniqueName] == "The Winds of Fate" # [ForceSellItem] == "true" // 638.61
+[UniqueName] == "The Yielding Mortality" # [ForceSellItem] == "true" // 614.05
+[UniqueName] == "Relic of the Pact" # [ForceSellItem] == "true" // 614.05
+[UniqueName] == "Uul-Netol's Embrace" # [ForceSellItem] == "true" // 564.93
+[UniqueName] == "Starforge" # [ForceSellItem] == "true" // 515.80
+[UniqueName] == "Xirgil's Crank" # [ForceSellItem] == "true" // 491.24
+[UniqueName] == "Kingmaker" # [ForceSellItem] == "true" // 491.24
+[UniqueName] == "The Fulcrum" # [ForceSellItem] == "true" // 368.43
+[UniqueName] == "Replica Trypanon" # [ForceSellItem] == "true" // 257.90
+[UniqueName] == "Soul Taker" # [ForceSellItem] == "true" // 245.62
+[UniqueName] == "Voltaxic Rift" # [ForceSellItem] == "true" // 245.62
+[UniqueName] == "Duskdawn" # [ForceSellItem] == "true" // 245.62
+[UniqueName] == "Cameria's Avarice" # [ForceSellItem] == "true" // 245.62
+[UniqueName] == "Replica Harvest" # [ForceSellItem] == "true" // 245.62
+[UniqueName] == "Replica Kongor's Undying Rage" # [ForceSellItem] == "true" // 245.62
+[UniqueName] == "Pledge of Hands" # [ForceSellItem] == "true" // 235.80
+[UniqueName] == "Lioneye's Glare" # [ForceSellItem] == "true" // 219.37
+[UniqueName] == "Death's Harp" # [ForceSellItem] == "true" // 214.92
+[UniqueName] == "The Dark Seer" # [ForceSellItem] == "true" // 184.22
+[UniqueName] == "Tidebreaker" # [ForceSellItem] == "true" // 184.22
+[UniqueName] == "Widowhail" # [ForceSellItem] == "true" // 184.22
+[UniqueName] == "Rakiata's Dance" # [ForceSellItem] == "true" // 184.22
+[UniqueName] == "Replica Windripper" # [ForceSellItem] == "true" // 171.93
+[UniqueName] == "Disintegrator" # [ForceSellItem] == "true" // 159.65
+[UniqueName] == "Replica Wings of Entropy" # [ForceSellItem] == "true" // 135.09
+[UniqueName] == "Kitava's Feast" # [ForceSellItem] == "true" // 134.11
+[UniqueName] == "Chober Chaber" # [ForceSellItem] == "true" // 122.81
+[UniqueName] == "Darkscorn" # [ForceSellItem] == "true" // 122.81
+[UniqueName] == "Doomfletch" # [ForceSellItem] == "true" // 122.81
+[UniqueName] == "Marohi Erqi" # [ForceSellItem] == "true" // 122.81
+[UniqueName] == "Quill Rain" # [ForceSellItem] == "true" // 122.81
+[UniqueName] == "The Whispering Ice" # [ForceSellItem] == "true" // 122.81
+[UniqueName] == "Trypanon" # [ForceSellItem] == "true" // 122.81
+[UniqueName] == "United in Dream" # [ForceSellItem] == "true" // 122.81
+[UniqueName] == "Martyr of Innocence" # [ForceSellItem] == "true" // 122.81
+[UniqueName] == "Hopeshredder" # [ForceSellItem] == "true" // 122.81
+[UniqueName] == "Replica Infractem" # [ForceSellItem] == "true" // 122.81
+[UniqueName] == "Replica Iron Commander" # [ForceSellItem] == "true" // 122.81
+[UniqueName] == "Cane of Kulemak" # [ForceSellItem] == "true" // 122.81
+[UniqueName] == "The Gluttonous Tide" # [ForceSellItem] == "true" // 122.81
+[UniqueName] == "The Burden of Shadows" # [ForceSellItem] == "true" // 116.53
+[UniqueName] == "Uul-Netol's Kiss" # [ForceSellItem] == "true" // 109.69
+[UniqueName] == "Arborix" # [ForceSellItem] == "true" // 108.69
+[UniqueName] == "Tremor Rod" # [ForceSellItem] == "true" // 105.29
+[UniqueName] == "Xoph's Nurture" # [ForceSellItem] == "true" // 102.80
+[UniqueName] == "Shiversting" # [ForceSellItem] == "true" // 100.00
+[UniqueName] == "Xoph's Inception" # [ForceSellItem] == "true" // 100.00
+[UniqueName] == "Taryn's Shiver" # [ForceSellItem] == "true" // 99.47
+[UniqueName] == "Windripper" # [ForceSellItem] == "true" // 99.00
+[UniqueName] == "Hegemony's Era" # [ForceSellItem] == "true" // 98.00
+[UniqueName] == "Terminus Est" # [ForceSellItem] == "true" // 91.20
+[UniqueName] == "Reach of the Council" # [ForceSellItem] == "true" // 84.77
+[UniqueName] == "Sire of Shards" # [ForceSellItem] == "true" // 83.50
+[UniqueName] == "Doomsower" # [ForceSellItem] == "true" // 83.00
+[UniqueName] == "The Enmity Divine" # [ForceSellItem] == "true" // 80.56
+[UniqueName] == "Silverbranch" # [ForceSellItem] == "true" // 80.00
+[UniqueName] == "Paradoxica" # [ForceSellItem] == "true" // 80.00
+[UniqueName] == "Replica Quill Rain" # [ForceSellItem] == "true" // 80.00
+[UniqueName] == "The Searing Touch" # [ForceSellItem] == "true" // 79.00
+[UniqueName] == "Ngamahu's Flame" # [ForceSellItem] == "true" // 77.00
+[UniqueName] == "The Blood Reaper" # [ForceSellItem] == "true" // 76.84
+[UniqueName] == "Storm Cloud" # [ForceSellItem] == "true" // 75.00
+[UniqueName] == "Iron Commander" # [ForceSellItem] == "true" // 74.00
+[UniqueName] == "Queen's Decree" # [ForceSellItem] == "true" // 65.50
+[UniqueName] == "Cane of Unravelling" # [ForceSellItem] == "true" // 64.44
+[UniqueName] == "Femurs of the Saints" # [ForceSellItem] == "true" // 64.00
+[UniqueName] == "Limbsplit" # [ForceSellItem] == "true" // 63.00
+[UniqueName] == "The Dancing Dervish" # [ForceSellItem] == "true" // 60.00
+[UniqueName] == "Witchhunter's Judgment" # [ForceSellItem] == "true" // 59.34
+[UniqueName] == "The Crimson Storm" # [ForceSellItem] == "true" // 56.56
+[UniqueName] == "Agnerod East" # [ForceSellItem] == "true" // 55.00
+[UniqueName] == "Dying Breath" # [ForceSellItem] == "true" // 51.00
+[UniqueName] == "Brain Rattler" # [ForceSellItem] == "true" // 50.00
+[UniqueName] == "Divinarius" # [ForceSellItem] == "true" // 50.00
+[UniqueName] == "Infractem" # [ForceSellItem] == "true" // 50.00
+[UniqueName] == "Tulfall" # [ForceSellItem] == "true" // 49.00
+[UniqueName] == "Null's Inclination" # [ForceSellItem] == "true" // 48.00
+[UniqueName] == "Sinvicta's Mettle" # [ForceSellItem] == "true" // 45.00
+[UniqueName] == "Oro's Sacrifice" # [ForceSellItem] == "true" // 44.50
+[UniqueName] == "Agnerod South" # [ForceSellItem] == "true" // 43.00
+[UniqueName] == "Reaper's Pursuit" # [ForceSellItem] == "true" // 43.00
+[UniqueName] == "Hezmana's Bloodlust" # [ForceSellItem] == "true" // 42.00
+[UniqueName] == "Quecholli" # [ForceSellItem] == "true" // 41.00
+[UniqueName] == "Soulwrest" # [ForceSellItem] == "true" // 41.00
+[UniqueName] == "The Goddess Scorned" # [ForceSellItem] == "true" // 40.20
+[UniqueName] == "Roth's Reach" # [ForceSellItem] == "true" // 40.00
+[UniqueName] == "Fate of the Vaal" # [ForceSellItem] == "true" // 40.00
+[UniqueName] == "Nebulis" # [ForceSellItem] == "true" // 40.00
+[UniqueName] == "Chin Sol" # [ForceSellItem] == "true" // 39.50
+[UniqueName] == "Pillar of the Caged God" # [ForceSellItem] == "true" // 38.50
+[UniqueName] == "Replica Oro's Sacrifice" # [ForceSellItem] == "true" // 38.00
+[UniqueName] == "The Surging Thoughts" # [ForceSellItem] == "true" // 35.00
+[UniqueName] == "Rigwald's Charge" # [ForceSellItem] == "true" // 34.00
+[UniqueName] == "Edge of Madness" # [ForceSellItem] == "true" // 33.40
+[UniqueName] == "Slivertongue" # [ForceSellItem] == "true" // 31.80
+[UniqueName] == "Kondo's Pride" # [ForceSellItem] == "true" // 30.40
+[UniqueName] == "The Harvest" # [ForceSellItem] == "true" // 30.00
+[UniqueName] == "Void Battery" # [ForceSellItem] == "true" // 30.00
+[UniqueName] == "Voidhome" # [ForceSellItem] == "true" // 30.00
+[UniqueName] == "Replica Dreamfeather" # [ForceSellItem] == "true" // 30.00
+[UniqueName] == "Replica Frostbreath" # [ForceSellItem] == "true" // 30.00
+[UniqueName] == "Debeon's Dirge" # [ForceSellItem] == "true" // 29.00
+[UniqueName] == "Agnerod North" # [ForceSellItem] == "true" // 28.70
+[UniqueName] == "Kaom's Primacy" # [ForceSellItem] == "true" // 26.50
+[UniqueName] == "Wings of Entropy" # [ForceSellItem] == "true" // 25.20
+[UniqueName] == "The Stormheart" # [ForceSellItem] == "true" // 24.50
+[UniqueName] == "Agnerod West" # [ForceSellItem] == "true" // 22.00
+[UniqueName] == "Realmshaper" # [ForceSellItem] == "true" // 22.00
+[UniqueName] == "Wideswing" # [ForceSellItem] == "true" // 22.00
+[UniqueName] == "Kongor's Undying Rage" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "MjÃ¶lner" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "Nuro's Harp" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "Hiltless" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "Hrimnor's Hymn" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "Third Piece of Brutality" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "First Piece of Brutality" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "Second Piece of the Arcane" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "First Piece of the Arcane" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "Third Piece of the Arcane" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "Replica Paradoxica" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "The Iron Mass" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "The Hidden Blade" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "Replica Duskdawn" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "Second Piece of Brutality" # [ForceSellItem] == "true" // 19.70
+[UniqueName] == "The Poet's Pen" # [ForceSellItem] == "true" // 18.00
+[UniqueName] == "Hand of Wisdom and Action" # [ForceSellItem] == "true" // 17.40
+[UniqueName] == "Arakaali's Fang" # [ForceSellItem] == "true" // 15.00
+[UniqueName] == "Replica Nebulis" # [ForceSellItem] == "true" // 15.00
+[UniqueName] == "Geofri's Baptism" # [ForceSellItem] == "true" // 13.00
+[UniqueName] == "Jorrhast's Blacksteel" # [ForceSellItem] == "true" // 12.90
+[UniqueName] == "Bino's Kitchen Knife" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Bloodseeker" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Cospri's Malice" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Ephemeral Edge" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Essentia Sanguis" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Replica Midnight Bargain" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Replica Allure" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Actum" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Maata's Teaching" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "The Rippling Thoughts" # [ForceSellItem] == "true" // 9.40
+[UniqueName] == "The Supreme Truth" # [ForceSellItem] == "true" // 9.00
+[UniqueName] == "Replica Bitterdream" # [ForceSellItem] == "true" // 9.00
+[UniqueName] == "Replica Tulfall" # [ForceSellItem] == "true" // 8.50
+[UniqueName] == "Replica Ungil's Gauche" # [ForceSellItem] == "true" // 8.40
+[UniqueName] == "Story of the Vaal" # [ForceSellItem] == "true" // 8.40
+[UniqueName] == "Bitterdream" # [ForceSellItem] == "true" // 8.00
+[UniqueName] == "Razor of the Seventh Sun" # [ForceSellItem] == "true" // 8.00
+[UniqueName] == "Beltimber Blade" # [ForceSellItem] == "true" // 8.00
+[UniqueName] == "Yaomac's Accord" # [ForceSellItem] == "true" // 8.00
+[UniqueName] == "Shade of Solaris" # [ForceSellItem] == "true" // 7.00
+[UniqueName] == "Doryani's Catalyst" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Midnight Bargain" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Varunastra" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Nebuloch" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Replica Tempestuous Steel" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Replica Earendel's Embrace" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Replica Last Resort" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Replica Advancing Fortress" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Replica Fencoil" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Replica Heartbreaker" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Replica Innsbury Edge" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Replica Cold Iron Point" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Law of the Wilds" # [ForceSellItem] == "true" // 4.10
+[UniqueName] == "Brutus' Lead Sprinkler" # [ForceSellItem] == "true" // 4.00
+[UniqueName] == "Replica Twyzel" # [ForceSellItem] == "true" // 4.00
+[UniqueName] == "Replica Bloodplay" # [ForceSellItem] == "true" // 3.20
+[UniqueName] == "Doon Cuebiyari" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Dreamfeather" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Heartbreaker" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Rebuke of the Vaal" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "The Scourge" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Severed in Sleep" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Grelwood Shank" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Vulconus" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Shimmeron" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "The Grey Spire" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Cerberus Limb" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Cold Iron Point" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Replica Blood Thorn" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Axiom Perpetuum" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Jack, the Axe" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Lifesprig" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Mon'tregul's Grasp" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Nycta's Lantern" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Singularity" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Augyre" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Hand of Thought and Motion" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Tulborn" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Apep's Rage" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Abberath's Horn" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Advancing Fortress" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Al Dhih" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Allure" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Aurumvorax" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Bloodplay" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Breath of the Council" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Brightbeak" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Callinellus Malleus" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Cameria's Maul" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Clayshaper" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Cybil's Paw" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Daresso's Passion" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Death's Hand" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Dreadarc" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Dyadus" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Fencoil" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Fidelitas' Spike" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Flesh-Eater" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Frostbreath" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Gorebreaker" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Goredrill" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Hyaon's Fury" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Ichimonji" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Innsbury Edge" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Lakishu's Blade" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Last Resort" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Lavianga's Wisdom" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Mark of the Doubting Knight" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Mightflay" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Moonbender's Wing" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Moonsorrow" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Mortem Morsu" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Ornament of the East" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Prismatic Eclipse" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Redbeak" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Relentless Fury" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Reverberation Rod" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Rigwald's Command" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Rigwald's Savagery" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Rive" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Scaeva" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "The Blood Thorn" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "The Consuming Dark" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "The Goddess Bound" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "The Princess" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "The Screaming Eagle" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "The Tempestuous Steel" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Touch of Anguish" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Twyzel" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Ungil's Gauche" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Widowmaker" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Wildslash" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Ewar's Mirage" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Taproot" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "The Wasp Nest" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "White Wind" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Balefire" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Ahn's Might" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Earendel's Embrace" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Sign of the Sin Eater" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "The Black Cane" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Goblinedge" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Ashcaller" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Storm Prison" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Eclipse Solaris" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Piscator's Vigil" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Obliteration" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Nametaker" # [ForceSellItem] == "true" // 1.00

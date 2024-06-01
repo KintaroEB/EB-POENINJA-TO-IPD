@@ -1,0 +1,116 @@
+﻿[Type] == "Divination Scarab of Curation" # [StashItem] == "true" // 1368.10
+[Type] == "Horned Scarab of Preservation" # [StashItem] == "true" // 736.86
+[Type] == "Horned Scarab of Bloodlines" # [StashItem] == "true" // 171.93
+[Type] == "Horned Scarab of Awakening" # [StashItem] == "true" // 110.00
+[Type] == "Divination Scarab of Completion" # [StashItem] == "true" // 98.05
+[Type] == "Ambush Scarab of Containment" # [StashItem] == "true" // 55.00
+[Type] == "Harvest Scarab of Cornucopia" # [StashItem] == "true" // 36.00
+[Type] == "Ultimatum Scarab of Catalysing" # [StashItem] == "true" // 35.00
+[Type] == "Reliquary Scarab of Vision" # [StashItem] == "true" // 25.00
+[Type] == "Horned Scarab of Glittering" # [StashItem] == "true" // 24.00
+[Type] == "Domination Scarab of Terrors" # [StashItem] == "true" // 19.81
+[Type] == "Horned Scarab of Pandemonium" # [StashItem] == "true" // 17.54
+[Type] == "Blight Scarab of Blooming" # [StashItem] == "true" // 10.00
+[Type] == "Incursion Scarab of Timelines" # [StashItem] == "true" // 10.00
+[Type] == "Essence Scarab of Calcification" # [StashItem] == "true" // 9.82
+[Type] == "Legion Scarab of Eternal Conflict" # [StashItem] == "true" // 6.00
+[Type] == "Harvest Scarab of Doubling" # [StashItem] == "true" // 5.85
+[Type] == "Ultimatum Scarab of Dueling" # [StashItem] == "true" // 4.52
+[Type] == "Ritual Scarab of Abundance" # [StashItem] == "true" // 2.99
+[Type] == "Cartography Scarab of Duplication" # [StashItem] == "true" // 2.72
+[Type] == "Bestiary Scarab of the Shadowed Crow" # [StashItem] == "true" // 2.05
+[Type] == "Expedition Scarab of the Skald" # [StashItem] == "true" // 2.00
+[Type] == "Breach Scarab of the Dreamer" # [StashItem] == "true" // 2.00
+[Type] == "Blight Scarab of Invigoration" # [StashItem] == "true" // 2.00
+[Type] == "Abyss Scarab of Profound Depth" # [StashItem] == "true" // 2.00
+[Type] == "Breach Scarab" # [StashItem] == "true" // 1.90
+[Type] == "Domination Scarab of Teachings" # [StashItem] == "true" // 1.55
+[Type] == "Ambush Scarab of Discernment" # [StashItem] == "true" // 1.36
+[Type] == "Cartography Scarab of Corruption" # [StashItem] == "true" // 1.12
+[Type] == "Domination Scarab" # [StashItem] == "true" // 1.12
+[Type] == "Harbinger Scarab of Warhoards" # [StashItem] == "true" // 1.06
+[Type] == "Ambush Scarab" # [StashItem] == "true" // 1.01
+[Type] == "Mysterious Scarab" # [StashItem] == "true" // 1.00
+[Type] == "Blight Scarab of Bounty" # [StashItem] == "true" // 1.00
+[Type] == "Ultimatum Scarab of Inscription" # [StashItem] == "true" // 1.00
+[Type] == "Breach Scarab of Snares" # [StashItem] == "true" // 1.00
+[Type] == "Horned Scarab of Tradition" # [StashItem] == "true" // 1.00
+[Type] == "Breach Scarab of Resonant Cascade" # [StashItem] == "true" // 1.00
+[Type] == "Legion Scarab of The Sekhema" # [StashItem] == "true" // 0.99
+[Type] == "Ultimatum Scarab of Bribing" # [StashItem] == "true" // 0.98
+[Type] == "Domination Scarab of Abnormality" # [StashItem] == "true" // 0.94
+[Type] == "Delirium Scarab of Paranoia" # [StashItem] == "true" // 0.93
+[Type] == "Cartography Scarab" # [StashItem] == "true" // 0.91
+[Type] == "Scarab of Hunted Traitors" # [StashItem] == "true" // 0.91
+[Type] == "Cartography Scarab of Ascension" # [StashItem] == "true" // 0.91
+[Type] == "Horned Scarab of Nemeses" # [StashItem] == "true" // 0.91
+[Type] == "Legion Scarab of Officers" # [StashItem] == "true" // 0.90
+[Type] == "Delirium Scarab of Mania" # [StashItem] == "true" // 0.88
+[Type] == "Harbinger Scarab of Discernment" # [StashItem] == "true" // 0.86
+[Type] == "Scarab of Monstrous Lineage" # [StashItem] == "true" // 0.85
+[Type] == "Harbinger Scarab" # [StashItem] == "true" // 0.85
+[Type] == "Ambush Scarab of Hidden Compartments" # [StashItem] == "true" // 0.85
+[Type] == "Essence Scarab of Adaptation" # [StashItem] == "true" // 0.83
+[Type] == "Influencing Scarab of Conversion" # [StashItem] == "true" // 0.82
+[Type] == "Bestiary Scarab of Duplicating" # [StashItem] == "true" // 0.82
+[Type] == "Divination Scarab" # [StashItem] == "true" // 0.82
+[Type] == "Expedition Scarab of Archaeology" # [StashItem] == "true" // 0.82
+[Type] == "Bestiary Scarab of the Herd" # [StashItem] == "true" // 0.81
+[Type] == "Essence Scarab" # [StashItem] == "true" // 0.80
+[Type] == "Ritual Scarab of Selectiveness" # [StashItem] == "true" // 0.79
+[Type] == "Scarab of Adversaries" # [StashItem] == "true" // 0.76
+[Type] == "Cartography Scarab of Singularity" # [StashItem] == "true" // 0.76
+[Type] == "Influencing Scarab of Hordes" # [StashItem] == "true" // 0.75
+[Type] == "Essence Scarab of Ascent" # [StashItem] == "true" // 0.75
+[Type] == "Expedition Scarab of Runefinding" # [StashItem] == "true" // 0.75
+[Type] == "Scarab of Stability" # [StashItem] == "true" // 0.75
+[Type] == "Scarab of Radiant Storms" # [StashItem] == "true" // 0.72
+[Type] == "Betrayal Scarab of Intelligence" # [StashItem] == "true" // 0.70
+[Type] == "Abyss Scarab of Multitudes" # [StashItem] == "true" // 0.68
+[Type] == "Blight Scarab of Oils" # [StashItem] == "true" // 0.67
+[Type] == "Ambush Scarab of Potency" # [StashItem] == "true" // 0.66
+[Type] == "Harbinger Scarab of Regency" # [StashItem] == "true" // 0.60
+[Type] == "Betrayal Scarab of Reinforcements" # [StashItem] == "true" // 0.51
+[Type] == "Harvest Scarab" # [StashItem] == "true" // 0.50
+[Type] == "Legion Scarab" # [StashItem] == "true" // 0.50
+[Type] == "Ritual Scarab of Recognition" # [StashItem] == "true" // 0.50
+[Type] == "Expedition Scarab of Verisium Powder" # [StashItem] == "true" // 0.50
+[Type] == "Abyss Scarab" # [StashItem] == "true" // 0.50
+[Type] == "Breach Scarab of Lordship" # [StashItem] == "true" // 0.50
+[Type] == "Abyss Scarab of Edifice" # [StashItem] == "true" // 0.50
+[Type] == "Incursion Scarab of Champions" # [StashItem] == "true" // 0.50
+[Type] == "Betrayal Scarab of Perpetuation" # [StashItem] == "true" // 0.50
+[Type] == "Scarab of Wisps" # [StashItem] == "true" // 0.48
+[Type] == "Essence Scarab of Stability" # [StashItem] == "true" // 0.40
+[Type] == "Delirium Scarab of Neuroses" # [StashItem] == "true" // 0.33
+[Type] == "Legion Scarab of Command" # [StashItem] == "true" // 0.33
+[Type] == "Delirium Scarab" # [StashItem] == "true" // 0.33
+[Type] == "Beyond Scarab of the Invasion" # [StashItem] == "true" // 0.33
+[Type] == "Betrayal Scarab" # [StashItem] == "true" // 0.33
+[Type] == "Delirium Scarab of Delusions" # [StashItem] == "true" // 0.33
+[Type] == "Anarchy Scarab" # [StashItem] == "true" // 0.25
+[Type] == "Sulphite Scarab" # [StashItem] == "true" // 0.25
+[Type] == "Sulphite Scarab of Greed" # [StashItem] == "true" // 0.25
+[Type] == "Beyond Scarab" # [StashItem] == "true" // 0.25
+[Type] == "Incursion Scarab" # [StashItem] == "true" // 0.25
+[Type] == "Blight Scarab" # [StashItem] == "true" // 0.25
+[Type] == "Incursion Scarab of Invasion" # [StashItem] == "true" // 0.25
+[Type] == "Ultimatum Scarab" # [StashItem] == "true" // 0.25
+[Type] == "Breach Scarab of Splintering" # [StashItem] == "true" // 0.25
+[Type] == "Reliquary Scarab of Overlords" # [StashItem] == "true" // 0.25
+[Type] == "Anarchy Scarab of Gigantification" # [StashItem] == "true" // 0.25
+[Type] == "Bestiary Scarab" # [StashItem] == "true" // 0.25
+[Type] == "Expedition Scarab" # [StashItem] == "true" // 0.25
+[Type] == "Abyss Scarab of Emptiness" # [StashItem] == "true" // 0.25
+[Type] == "Anarchy Scarab of Partnership" # [StashItem] == "true" // 0.25
+[Type] == "Beyond Scarab of Resurgence" # [StashItem] == "true" // 0.25
+[Type] == "Torment Scarab of Possession" # [StashItem] == "true" // 0.25
+[Type] == "Reliquary Scarab" # [StashItem] == "true" // 0.20
+[Type] == "Torment Scarab" # [StashItem] == "true" // 0.20
+[Type] == "Beyond Scarab of Haemophilia" # [StashItem] == "true" // 0.20
+[Type] == "Beyond Scarab of Corruption" # [StashItem] == "true" // 0.17
+[Type] == "Torment Scarab of Peculiarity" # [StashItem] == "true" // 0.14
+[Type] == "Sulphite Scarab of Fumes" # [StashItem] == "true" // 0.14
+[Type] == "Influencing Scarab of the Shaper" # [StashItem] == "true" // 0.14
+[Type] == "Influencing Scarab of the Elder" # [StashItem] == "true" // 0.14
+[Type] == "Torment Scarab of Release" # [StashItem] == "true" // 0.14

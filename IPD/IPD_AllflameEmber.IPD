@@ -1,0 +1,70 @@
+﻿[Type] == "Allflame Ember of The Shaper" # [StashItem] == "true" // 379.97
+[Type] == "Allflame Ember of Meatsacks" # [StashItem] == "true" // 269.65
+[Type] == "Allflame Ember of Manifested Wealth" # [StashItem] == "true" // 245.14
+[Type] == "Flaring Allflame Ember of Kalguurans" # [StashItem] == "true" // 121.28
+[Type] == "Flaring Allflame Ember of Scientists" # [StashItem] == "true" // 50.00
+[Type] == "Flaring Allflame Ember of Breachlords" # [StashItem] == "true" // 30.00
+[Type] == "Allflame Ember of Ramako" # [StashItem] == "true" // 26.60
+[Type] == "Flaring Allflame Ember of Wildwood Cultists" # [StashItem] == "true" // 26.00
+[Type] == "Allflame Ember of Syndicate Assassins" # [StashItem] == "true" // 24.51
+[Type] == "Allflame Ember of Syndicate Guards" # [StashItem] == "true" // 23.10
+[Type] == "Allflame Ember of Syndicate Escorts" # [StashItem] == "true" // 20.00
+[Type] == "Allflame Ember of Syndicate Researchers" # [StashItem] == "true" // 20.00
+[Type] == "Allflame Ember of Rats" # [StashItem] == "true" // 20.00
+[Type] == "Allflame Ember of Frogs" # [StashItem] == "true" // 17.51
+[Type] == "Allflame Ember of Anarchy" # [StashItem] == "true" // 15.52
+[Type] == "Allflame Ember of Tasalio" # [StashItem] == "true" // 15.00
+[Type] == "Allflame Ember of The Elder" # [StashItem] == "true" // 15.00
+[Type] == "Flaring Allflame Ember of the Vaal" # [StashItem] == "true" // 15.00
+[Type] == "Allflame Ember of Untainted Beasts" # [StashItem] == "true" // 15.00
+[Type] == "Allflame Ember of Untainted Devourers" # [StashItem] == "true" // 15.00
+[Type] == "Allflame Ember of Untainted Spitters" # [StashItem] == "true" // 15.00
+[Type] == "Allflame Ember of Untainted Rhoas" # [StashItem] == "true" // 15.00
+[Type] == "Allflame Ember of Untainted Chimerals" # [StashItem] == "true" // 15.00
+[Type] == "Allflame Ember of Untainted Maws" # [StashItem] == "true" // 15.00
+[Type] == "Allflame Ember of Untainted Apes" # [StashItem] == "true" // 15.00
+[Type] == "Flaring Allflame Ember of The First Ones" # [StashItem] == "true" // 15.00
+[Type] == "Allflame Ember of K'tash" # [StashItem] == "true" // 12.15
+[Type] == "Allflame Ember of Arohongui" # [StashItem] == "true" // 12.08
+[Type] == "Allflame Ember of Rongokurai" # [StashItem] == "true" // 12.00
+[Type] == "Allflame Ember of Hinekora" # [StashItem] == "true" // 11.40
+[Type] == "Allflame Ember of Ngamahu" # [StashItem] == "true" // 10.40
+[Type] == "Allflame Ember of The Black Scythe" # [StashItem] == "true" // 10.00
+[Type] == "Allflame Ember of Chayula" # [StashItem] == "true" // 10.00
+[Type] == "Allflame Ember of Frostmage Gemlings" # [StashItem] == "true" // 10.00
+[Type] == "Allflame Ember of Trial Guards" # [StashItem] == "true" // 10.00
+[Type] == "Allflame Ember of Brawling Gemlings" # [StashItem] == "true" // 10.00
+[Type] == "Allflame Ember of Trial Cores" # [StashItem] == "true" // 10.00
+[Type] == "Allflame Ember of Tawhoa" # [StashItem] == "true" // 10.00
+[Type] == "Allflame Ember of Xoph" # [StashItem] == "true" // 10.00
+[Type] == "Allflame Ember of The Redeemer" # [StashItem] == "true" // 10.00
+[Type] == "Allflame Ember of Artillery Gemlings" # [StashItem] == "true" // 10.00
+[Type] == "Allflame Ember of Valako" # [StashItem] == "true" // 10.00
+[Type] == "Allflame Ember of Kitava" # [StashItem] == "true" // 10.00
+[Type] == "Allflame Ember of Tukohama" # [StashItem] == "true" // 10.00
+[Type] == "Allflame Ember of The Hunter" # [StashItem] == "true" // 9.70
+[Type] == "Allflame Ember of Esh" # [StashItem] == "true" // 9.00
+[Type] == "Allflame Ember of The Crusader" # [StashItem] == "true" // 9.00
+[Type] == "Allflame Ember of The Knights of the Sun" # [StashItem] == "true" // 8.98
+[Type] == "Allflame Ember of Wildwood Beasts" # [StashItem] == "true" // 8.80
+[Type] == "Allflame Ember of Tul" # [StashItem] == "true" // 8.50
+[Type] == "Allflame Ember of Beidat" # [StashItem] == "true" // 8.17
+[Type] == "Allflame Ember of Wildwood Treants" # [StashItem] == "true" // 8.00
+[Type] == "Allflame Ember of Wildwood Cultists" # [StashItem] == "true" // 8.00
+[Type] == "Allflame Ember of Corpsemage Gemlings" # [StashItem] == "true" // 8.00
+[Type] == "Allflame Ember of Synthetic Fury" # [StashItem] == "true" // 8.00
+[Type] == "Allflame Ember of Uul-Netol" # [StashItem] == "true" // 8.00
+[Type] == "Allflame Ember of Berserking Gemlings" # [StashItem] == "true" // 8.00
+[Type] == "Allflame Ember of The Warlord" # [StashItem] == "true" // 8.00
+[Type] == "Allflame Ember of Ghorr" # [StashItem] == "true" // 6.90
+[Type] == "Allflame Ember of Sulphite" # [StashItem] == "true" // 5.00
+[Type] == "Allflame Ember of The Order of the Chalice" # [StashItem] == "true" // 5.00
+[Type] == "Allflame Ember of The Broken Circle" # [StashItem] == "true" // 5.00
+[Type] == "Flaring Allflame Ember of Abyss" # [StashItem] == "true" // 5.00
+[Type] == "Allflame Ember of The Maraketh Legion" # [StashItem] == "true" // 5.00
+[Type] == "Allflame Ember of The Karui Legion" # [StashItem] == "true" // 5.00
+[Type] == "Allflame Ember of the False God" # [StashItem] == "true" // 5.00
+[Type] == "Allflame Ember of The Vaal Legion" # [StashItem] == "true" // 4.00
+[Type] == "Allflame Ember of The Templar Legion" # [StashItem] == "true" // 3.80
+[Type] == "Allflame Ember of Abyss" # [StashItem] == "true" // 3.00
+[Type] == "Allflame Ember of The Eternal Legion" # [StashItem] == "true" // 3.00

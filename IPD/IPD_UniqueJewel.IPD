@@ -1,0 +1,102 @@
+﻿[UniqueName] == "Voices" # [ForceSellItem] == "true" // 280601.38
+[UniqueName] == "Emperor's Mastery" # [ForceSellItem] == "true" // 14171.40
+[UniqueName] == "Emperor's Might" # [ForceSellItem] == "true" // 5363.31
+[UniqueName] == "Amanamu's Gaze" # [ForceSellItem] == "true" // 3432.52
+[UniqueName] == "Emperor's Wit" # [ForceSellItem] == "true" // 3187.34
+[UniqueName] == "Emperor's Cunning" # [ForceSellItem] == "true" // 2770.53
+[UniqueName] == "Curiosity" # [ForceSellItem] == "true" // 1838.85
+[UniqueName] == "Melding of the Flesh" # [ForceSellItem] == "true" // 1716.26
+[UniqueName] == "Rational Doctrine" # [ForceSellItem] == "true" // 1103.31
+[UniqueName] == "The Green Nightmare" # [ForceSellItem] == "true" // 330.99
+[UniqueName] == "Unnatural Instinct" # [ForceSellItem] == "true" // 245.18
+[UniqueName] == "The Red Nightmare" # [ForceSellItem] == "true" // 207.18
+[UniqueName] == "Ambition" # [ForceSellItem] == "true" // 183.88
+[UniqueName] == "Grand Spectrum" # [ForceSellItem] == "true" // 122.59
+[UniqueName] == "Watcher's Eye" # [ForceSellItem] == "true" // 122.59
+[UniqueName] == "Lethal Pride" # [ForceSellItem] == "true" // 122.59
+[UniqueName] == "The Interrogation" # [ForceSellItem] == "true" // 122.59
+[UniqueName] == "Sublime Vision" # [ForceSellItem] == "true" // 122.59
+[UniqueName] == "Stormshroud" # [ForceSellItem] == "true" // 122.59
+[UniqueName] == "Forbidden Flame" # [ForceSellItem] == "true" // 120.78
+[UniqueName] == "The Blue Nightmare" # [ForceSellItem] == "true" // 103.00
+[UniqueName] == "Forbidden Flesh" # [ForceSellItem] == "true" // 100.00
+[UniqueName] == "The Perandus Pact" # [ForceSellItem] == "true" // 100.00
+[UniqueName] == "Combat Focus" # [ForceSellItem] == "true" // 80.00
+[UniqueName] == "The Adorned" # [ForceSellItem] == "true" // 80.00
+[UniqueName] == "Elegant Hubris" # [ForceSellItem] == "true" // 71.00
+[UniqueName] == "Glorious Vanity" # [ForceSellItem] == "true" // 70.50
+[UniqueName] == "Militant Faith" # [ForceSellItem] == "true" // 70.00
+[UniqueName] == "Natural Affinity" # [ForceSellItem] == "true" // 70.00
+[UniqueName] == "Thread of Hope" # [ForceSellItem] == "true" // 61.30
+[UniqueName] == "Ancestral Vision" # [ForceSellItem] == "true" // 60.00
+[UniqueName] == "Primordial Might" # [ForceSellItem] == "true" // 50.00
+[UniqueName] == "Brutal Restraint" # [ForceSellItem] == "true" // 50.00
+[UniqueName] == "Immutable Force" # [ForceSellItem] == "true" // 50.00
+[UniqueName] == "Transcendent Spirit" # [ForceSellItem] == "true" // 49.10
+[UniqueName] == "Transcendent Mind" # [ForceSellItem] == "true" // 40.00
+[UniqueName] == "One With Nothing" # [ForceSellItem] == "true" // 40.00
+[UniqueName] == "Megalomaniac" # [ForceSellItem] == "true" // 40.00
+[UniqueName] == "Transcendent Flesh" # [ForceSellItem] == "true" // 39.70
+[UniqueName] == "Tecrod's Gaze" # [ForceSellItem] == "true" // 39.00
+[UniqueName] == "The Balance of Terror" # [ForceSellItem] == "true" // 38.50
+[UniqueName] == "Impossible Escape" # [ForceSellItem] == "true" // 30.00
+[UniqueName] == "Bloodnotch" # [ForceSellItem] == "true" // 30.00
+[UniqueName] == "Dissolution of the Flesh" # [ForceSellItem] == "true" // 29.00
+[UniqueName] == "Intuitive Leap" # [ForceSellItem] == "true" // 25.00
+[UniqueName] == "Inspired Learning" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "Fortress Covenant" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "Cooperation" # [ForceSellItem] == "true" // 19.00
+[UniqueName] == "Lioneye's Fall" # [ForceSellItem] == "true" // 15.00
+[UniqueName] == "Primordial Harmony" # [ForceSellItem] == "true" // 15.00
+[UniqueName] == "The Anima Stone" # [ForceSellItem] == "true" // 15.00
+[UniqueName] == "The Red Dream" # [ForceSellItem] == "true" // 15.00
+[UniqueName] == "Kurgal's Gaze" # [ForceSellItem] == "true" // 14.80
+[UniqueName] == "Rain of Splinters" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Unending Hunger" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Primordial Eminence" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Might of the Meek" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Calamitous Visions" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Split Personality" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Ulaman's Gaze" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Beauty" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Quickening Covenant" # [ForceSellItem] == "true" // 9.00
+[UniqueName] == "The Green Dream" # [ForceSellItem] == "true" // 7.00
+[UniqueName] == "Replica Primordial Might" # [ForceSellItem] == "true" // 5.10
+[UniqueName] == "Dead Reckoning" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Energised Armour" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Energy From Within" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Healthy Mind" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "To Dust" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Pure Talent" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "The Front Line" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Replica Reckless Defence" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Firesong" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Witchbane" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Replica Pacifism" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "The Blue Dream" # [ForceSellItem] == "true" // 4.00
+[UniqueName] == "Seething Fury" # [ForceSellItem] == "true" // 4.00
+[UniqueName] == "Replica Powerlessness" # [ForceSellItem] == "true" // 4.00
+[UniqueName] == "Replica Fragility" # [ForceSellItem] == "true" // 3.70
+[UniqueName] == "Atziri's Reign" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Tempered Flesh" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Tempered Mind" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Tempered Spirit" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "The Siege" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Kitava's Teachings" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Brute Force Solution" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Careful Planning" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Fertile Mind" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Fevered Mind" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Fluid Motion" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Hidden Potential" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Reckless Defence" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Self-Flagellation" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "The Golden Rule" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Apex Mode" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Nadir Mode" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Chill of Corruption" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Efficient Training" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Fragility" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Inertia" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Pacifism" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Powerlessness" # [ForceSellItem] == "true" // 1.00

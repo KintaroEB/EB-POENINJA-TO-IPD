@@ -1,0 +1,230 @@
+﻿[UniqueName] == "Original Sin" # [ForceSellItem] == "true" // 128297.91
+[UniqueName] == "Nimis" # [ForceSellItem] == "true" // 11143.43
+[UniqueName] == "Mageblood" # [ForceSellItem] == "true" // 10787.92
+[UniqueName] == "Uul-Netol's Vow" # [ForceSellItem] == "true" // 7355.40
+[UniqueName] == "Stranglegasp" # [ForceSellItem] == "true" // 5639.14
+[UniqueName] == "Crystallised Omniscience" # [ForceSellItem] == "true" // 3322.19
+[UniqueName] == "Replica Bated Breath" # [ForceSellItem] == "true" // 2868.61
+[UniqueName] == "Impresence" # [ForceSellItem] == "true" // 1838.85
+[UniqueName] == "Headhunter" # [ForceSellItem] == "true" // 980.72
+[UniqueName] == "Curio of Consumption" # [ForceSellItem] == "true" // 937.81
+[UniqueName] == "Voice of the Storm" # [ForceSellItem] == "true" // 858.13
+[UniqueName] == "Defiance of Destiny" # [ForceSellItem] == "true" // 858.13
+[UniqueName] == "Eternal Damnation" # [ForceSellItem] == "true" // 543.07
+[UniqueName] == "Kalandra's Touch" # [ForceSellItem] == "true" // 490.36
+[UniqueName] == "Olesya's Delight" # [ForceSellItem] == "true" // 465.84
+[UniqueName] == "Putembo's Mountain" # [ForceSellItem] == "true" // 367.77
+[UniqueName] == "Curio of Absorption" # [ForceSellItem] == "true" // 367.77
+[UniqueName] == "Solstice Vigil" # [ForceSellItem] == "true" // 355.51
+[UniqueName] == "Arn's Anguish" # [ForceSellItem] == "true" // 318.73
+[UniqueName] == "The Tides of Time" # [ForceSellItem] == "true" // 318.73
+[UniqueName] == "Xoph's Blood" # [ForceSellItem] == "true" // 245.18
+[UniqueName] == "Presence of Chayula" # [ForceSellItem] == "true" // 245.18
+[UniqueName] == "Curio of Decay" # [ForceSellItem] == "true" // 245.18
+[UniqueName] == "Choir of the Storm" # [ForceSellItem] == "true" // 196.14
+[UniqueName] == "Replica Badge of the Brotherhood" # [ForceSellItem] == "true" // 171.63
+[UniqueName] == "The Torrent's Reclamation" # [ForceSellItem] == "true" // 169.17
+[UniqueName] == "Polaric Devastation" # [ForceSellItem] == "true" // 159.68
+[UniqueName] == "Ashes of the Stars" # [ForceSellItem] == "true" // 159.37
+[UniqueName] == "Graven's Secret" # [ForceSellItem] == "true" // 145.33
+[UniqueName] == "The Pandemonius" # [ForceSellItem] == "true" // 122.59
+[UniqueName] == "Precursor's Emblem" # [ForceSellItem] == "true" // 122.59
+[UniqueName] == "Putembo's Meadow" # [ForceSellItem] == "true" // 122.59
+[UniqueName] == "Uzaza's Valley" # [ForceSellItem] == "true" // 122.59
+[UniqueName] == "Badge of the Brotherhood" # [ForceSellItem] == "true" // 122.59
+[UniqueName] == "Replica Headhunter" # [ForceSellItem] == "true" // 122.59
+[UniqueName] == "Curio of Potential" # [ForceSellItem] == "true" // 122.59
+[UniqueName] == "The Burden of Truth" # [ForceSellItem] == "true" // 101.67
+[UniqueName] == "Anathema" # [ForceSellItem] == "true" // 100.00
+[UniqueName] == "Circle of Ambition" # [ForceSellItem] == "true" // 90.00
+[UniqueName] == "Mark of the Elder" # [ForceSellItem] == "true" // 74.00
+[UniqueName] == "Mark of the Shaper" # [ForceSellItem] == "true" // 70.00
+[UniqueName] == "Coward's Legacy" # [ForceSellItem] == "true" // 60.00
+[UniqueName] == "Uzaza's Mountain" # [ForceSellItem] == "true" // 60.00
+[UniqueName] == "Xoph's Heart" # [ForceSellItem] == "true" // 50.00
+[UniqueName] == "Second Piece of Time" # [ForceSellItem] == "true" // 50.00
+[UniqueName] == "First Piece of Time" # [ForceSellItem] == "true" // 50.00
+[UniqueName] == "Eyes of the Greatwolf" # [ForceSellItem] == "true" // 36.00
+[UniqueName] == "Call of the Void" # [ForceSellItem] == "true" // 36.00
+[UniqueName] == "Yoke of Suffering" # [ForceSellItem] == "true" // 32.30
+[UniqueName] == "Atziri's Foible" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "Aul's Uprising" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "Replica Emberwake" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "Fated End" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "Replica Dragonfang's Flight" # [ForceSellItem] == "true" // 20.00
+[UniqueName] == "Putembo's Valley" # [ForceSellItem] == "true" // 18.00
+[UniqueName] == "Astramentis" # [ForceSellItem] == "true" // 15.00
+[UniqueName] == "Shavronne's Revelation" # [ForceSellItem] == "true" // 15.00
+[UniqueName] == "The Magnate" # [ForceSellItem] == "true" // 15.00
+[UniqueName] == "The Taming" # [ForceSellItem] == "true" // 15.00
+[UniqueName] == "Uzaza's Meadow" # [ForceSellItem] == "true" // 15.00
+[UniqueName] == "Ahkeli's Meadow" # [ForceSellItem] == "true" // 15.00
+[UniqueName] == "The Untouched Soul" # [ForceSellItem] == "true" // 15.00
+[UniqueName] == "The Eternal Struggle" # [ForceSellItem] == "true" // 12.80
+[UniqueName] == "Perandus Signet" # [ForceSellItem] == "true" // 12.00
+[UniqueName] == "Death Rush" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Ryslatha's Coil" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "The Flow Untethered" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Ahkeli's Valley" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Circle of Regret" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Circle of Guilt" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Circle of Nostalgia" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Astral Projector" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Replica Voideye" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Replica Soul Tether" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Replica Hyrri's Truth" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Replica Atziri's Foible" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Replica Tasalio's Sign" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Replica Karui Ward" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Blackflame" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Leadership's Price" # [ForceSellItem] == "true" // 10.00
+[UniqueName] == "Sunblast" # [ForceSellItem] == "true" // 9.00
+[UniqueName] == "Coward's Chains" # [ForceSellItem] == "true" // 9.00
+[UniqueName] == "Zerphi's Heart" # [ForceSellItem] == "true" // 9.00
+[UniqueName] == "Circle of Fear" # [ForceSellItem] == "true" // 9.00
+[UniqueName] == "Replica Hinekora's Sight" # [ForceSellItem] == "true" // 9.00
+[UniqueName] == "Doryani's Invitation" # [ForceSellItem] == "true" // 8.00
+[UniqueName] == "Replica Prismweave" # [ForceSellItem] == "true" // 8.00
+[UniqueName] == "Replica Siegebreaker" # [ForceSellItem] == "true" // 8.00
+[UniqueName] == "Circle of Anguish" # [ForceSellItem] == "true" // 7.10
+[UniqueName] == "Ventor's Gamble" # [ForceSellItem] == "true" // 7.00
+[UniqueName] == "Ahkeli's Mountain" # [ForceSellItem] == "true" // 7.00
+[UniqueName] == "Vivinsect" # [ForceSellItem] == "true" // 7.00
+[UniqueName] == "The Halcyon" # [ForceSellItem] == "true" // 6.00
+[UniqueName] == "Berek's Respite" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Call of the Brotherhood" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Redblade Band" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Darkness Enthroned" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Winterweave" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Hyperboreus" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "The Jinxed Juju" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Fury Valve" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Profane Proxy" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Replica Malachai's Artifice" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Replica Doedre's Damning" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Replica Winterheart" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Triumvirate Authority" # [ForceSellItem] == "true" // 5.00
+[UniqueName] == "Sacrificial Heart" # [ForceSellItem] == "true" // 4.00
+[UniqueName] == "Warrior's Legacy" # [ForceSellItem] == "true" // 4.00
+[UniqueName] == "Rotblood Promise" # [ForceSellItem] == "true" // 4.00
+[UniqueName] == "Dream Fragments" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Dyadian Dawn" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Le Heup of All" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Marylene's Fallacy" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Ming's Heart" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Pyre" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Rigwald's Crest" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "The Pariah" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "The Retch" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Valyrium" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Voll's Devotion" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Bisco's Collar" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Gloomfang" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "The Hungry Loop" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Cyclopean Coil" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Bear's Girdle" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Chains of Emancipation" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Survivor's Guilt" # [ForceSellItem] == "true" // 3.00
+[UniqueName] == "Andvarius" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Blackheart" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Heartbound Loop" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Hinekora's Sight" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Immortal Flesh" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Karui Ward" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Kikazaru" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Rashkaldor's Patience" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Snakepit" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Soulthirst" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Ungil's Harmony" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Voideye" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Perseverance" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Bisco's Leash" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Auxium" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Perquil's Toe" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Hyrri's Truth" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Tavukai" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Leash of Oblation" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Mother's Embrace" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "The Felbog Fang" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Tainted Pact" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Bound Fate" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Kaom's Binding" # [ForceSellItem] == "true" // 2.00
+[UniqueName] == "Berek's Grip" # [ForceSellItem] == "true" // 1.91
+[UniqueName] == "Emberwake" # [ForceSellItem] == "true" // 1.40
+[UniqueName] == "Grattus Signet" # [ForceSellItem] == "true" // 1.14
+[UniqueName] == "Rigwald's Curse" # [ForceSellItem] == "true" // 1.07
+[UniqueName] == "Umbilicus Immortalis" # [ForceSellItem] == "true" // 1.02
+[UniqueName] == "Araku Tiki" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Ascent From Flesh" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Bated Breath" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Belt of the Deceiver" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Berek's Pass" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Blightwell" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Brinerot Mark" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Carnage Heart" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Daresso's Salute" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Doedre's Damning" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Essence Worm" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Extractor Mentis" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Eye of Chayula" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Eye of Innocence" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Faminebind" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Feastbind" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Gifts from Above" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Kaom's Sign" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Lori's Lantern" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Malachai's Artifice" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Maligaro's Restraint" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Meginord's Girdle" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Mokou's Embrace" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Mutewind Seal" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Natural Hierarchy" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Ngamahu's Sign" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Night's Hold" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Perandus Blazon" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Praxis" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Prismweave" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Romira's Banquet" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Shaper's Seed" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Sibyl's Lament" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Sidhebreath" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Stone of Lazhwar" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Tasalio's Sign" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Tear of Purity" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "The Anvil" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "The Ascetic" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "The Aylardex" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "The Ignomon" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "The Warden's Brand" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Thief's Torment" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Timeclasp" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Valako's Sign" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Victario's Acuity" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Warped Timepiece" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Winterheart" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Wurm's Molt" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Bloodgrip" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Soul Tether" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Maligaro's Cruelty" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Stormfire" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Gluttony" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Mark of Submission" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "The Primordial Chain" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Siegebreaker" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Venopuncture" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Icefang Orbit" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Willowgift" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Storm Secret" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Retaliation Charm" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Pyroshock Clasp" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "The Ephemeral Bond" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "The Highwayman" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "The Druggery" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Doedre's Tongue" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Chain of Endurance" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Bloodsoaked Medallion" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Ceinture of Benevolence" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Soulbound" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Ikiaho's Promise" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Tawhanuku's Timing" # [ForceSellItem] == "true" // 1.00
+[UniqueName] == "Nevalius Inheritance" # [ForceSellItem] == "true" // 1.00

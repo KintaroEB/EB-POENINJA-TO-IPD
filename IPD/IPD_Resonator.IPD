@@ -1,0 +1,4 @@
+﻿[Type] == "Prime Chaotic Resonator" # [StashItem] == "true" // 38.00
+[Type] == "Powerful Chaotic Resonator" # [StashItem] == "true" // 2.00
+[Type] == "Potent Chaotic Resonator" # [StashItem] == "true" // 1.00
+[Type] == "Primitive Chaotic Resonator" # [StashItem] == "true" // 0.87

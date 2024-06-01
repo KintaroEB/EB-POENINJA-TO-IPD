@@ -1,0 +1,427 @@
+﻿[Type] == "House of Mirrors" # [StashItem] == "true" // 20877.70
+[Type] == "Unrequited Love" # [StashItem] == "true" // 6631.74
+[Type] == "The Price of Devotion" # [StashItem] == "true" // 5158.02
+[Type] == "The Apothecary" # [StashItem] == "true" // 2208.62
+[Type] == "The Immortal" # [StashItem] == "true" // 2087.77
+[Type] == "Fire Of Unknown Origin" # [StashItem] == "true" // 1228.10
+[Type] == "Luminous Trove" # [StashItem] == "true" // 1105.29
+[Type] == "Beauty Through Death" # [StashItem] == "true" // 1021.78
+[Type] == "The Insane Cat" # [StashItem] == "true" // 982.48
+[Type] == "Divine Justice" # [StashItem] == "true" // 842.48
+[Type] == "Choking Guilt" # [StashItem] == "true" // 736.86
+[Type] == "Brother's Gift" # [StashItem] == "true" // 636.16
+[Type] == "The Cheater" # [StashItem] == "true" // 614.05
+[Type] == "The Progeny of Lunaris" # [StashItem] == "true" // 429.84
+[Type] == "I See Brothers" # [StashItem] == "true" // 392.99
+[Type] == "Seven Years Bad Luck" # [StashItem] == "true" // 380.71
+[Type] == "Desecrated Virtue" # [StashItem] == "true" // 282.46
+[Type] == "Love Through Ice" # [StashItem] == "true" // 282.46
+[Type] == "Auspicious Ambitions" # [StashItem] == "true" // 257.90
+[Type] == "The Endless Darkness" # [StashItem] == "true" // 245.62
+[Type] == "The Demon" # [StashItem] == "true" // 245.62
+[Type] == "Succor of the Sinless" # [StashItem] == "true" // 245.62
+[Type] == "The Gulf" # [StashItem] == "true" // 208.78
+[Type] == "The Samurai's Eye" # [StashItem] == "true" // 159.65
+[Type] == "Wealth and Power" # [StashItem] == "true" // 122.81
+[Type] == "Matryoshka" # [StashItem] == "true" // 122.81
+[Type] == "The Sephirot" # [StashItem] == "true" // 100.00
+[Type] == "The Price of Loyalty" # [StashItem] == "true" // 95.00
+[Type] == "The Dragon's Heart" # [StashItem] == "true" // 80.00
+[Type] == "The Doctor" # [StashItem] == "true" // 70.00
+[Type] == "Broken Promises" # [StashItem] == "true" // 70.00
+[Type] == "Imperfect Memories" # [StashItem] == "true" // 70.00
+[Type] == "Divine Beauty" # [StashItem] == "true" // 69.00
+[Type] == "Winter's Embrace" # [StashItem] == "true" // 60.00
+[Type] == "The Fiend" # [StashItem] == "true" // 50.00
+[Type] == "The Destination" # [StashItem] == "true" // 50.00
+[Type] == "The Artist" # [StashItem] == "true" // 47.30
+[Type] == "Darker Half" # [StashItem] == "true" // 45.00
+[Type] == "The Greatest Intentions" # [StashItem] == "true" // 44.00
+[Type] == "Magnum Opus" # [StashItem] == "true" // 40.00
+[Type] == "The Sacrifice" # [StashItem] == "true" // 39.00
+[Type] == "The Enlightened" # [StashItem] == "true" // 34.00
+[Type] == "Brother's Stash" # [StashItem] == "true" // 33.67
+[Type] == "Doryani's Epiphany" # [StashItem] == "true" // 30.00
+[Type] == "Assassin's Gift" # [StashItem] == "true" // 28.00
+[Type] == "The Last One Standing" # [StashItem] == "true" // 27.00
+[Type] == "The Eternal War" # [StashItem] == "true" // 25.00
+[Type] == "The Emptiness" # [StashItem] == "true" // 25.00
+[Type] == "The World Eater" # [StashItem] == "true" // 24.60
+[Type] == "Misery in Darkness" # [StashItem] == "true" // 24.00
+[Type] == "The Soul" # [StashItem] == "true" // 20.00
+[Type] == "The Mad King" # [StashItem] == "true" // 20.00
+[Type] == "Burning Blood" # [StashItem] == "true" // 20.00
+[Type] == "The Hook" # [StashItem] == "true" // 20.00
+[Type] == "Home" # [StashItem] == "true" // 20.00
+[Type] == "Gemcutter's Mercy" # [StashItem] == "true" // 20.00
+[Type] == "The Chosen" # [StashItem] == "true" // 18.00
+[Type] == "Deadly Joy" # [StashItem] == "true" // 18.00
+[Type] == "The Leviathan" # [StashItem] == "true" // 18.00
+[Type] == "The Fortunate" # [StashItem] == "true" // 18.00
+[Type] == "The Astromancer" # [StashItem] == "true" // 17.10
+[Type] == "Terrible Secret of Space" # [StashItem] == "true" // 15.90
+[Type] == "Remembrance" # [StashItem] == "true" // 15.40
+[Type] == "Fateful Meeting" # [StashItem] == "true" // 15.00
+[Type] == "The Shieldbearer" # [StashItem] == "true" // 15.00
+[Type] == "Rebirth" # [StashItem] == "true" // 14.50
+[Type] == "The Eye of Terror" # [StashItem] == "true" // 14.20
+[Type] == "The Long Con" # [StashItem] == "true" // 14.00
+[Type] == "The Shortcut" # [StashItem] == "true" // 12.00
+[Type] == "Further Invention" # [StashItem] == "true" // 11.40
+[Type] == "Anarchy's Price" # [StashItem] == "true" // 10.00
+[Type] == "The Fishmonger" # [StashItem] == "true" // 10.00
+[Type] == "A Modest Request" # [StashItem] == "true" // 10.00
+[Type] == "Duality" # [StashItem] == "true" // 10.00
+[Type] == "Altered Perception" # [StashItem] == "true" // 10.00
+[Type] == "The Vast" # [StashItem] == "true" // 9.60
+[Type] == "Void of the Elements" # [StashItem] == "true" // 9.60
+[Type] == "The Queen" # [StashItem] == "true" // 9.50
+[Type] == "The Old Man" # [StashItem] == "true" // 9.20
+[Type] == "Etched in Blood" # [StashItem] == "true" // 9.10
+[Type] == "Tranquillity" # [StashItem] == "true" // 9.00
+[Type] == "The Eldritch Decay" # [StashItem] == "true" // 9.00
+[Type] == "The Last Supper" # [StashItem] == "true" // 9.00
+[Type] == "The Price of Prescience" # [StashItem] == "true" // 9.00
+[Type] == "The Aspirant" # [StashItem] == "true" // 9.00
+[Type] == "Eternal Bonds" # [StashItem] == "true" // 9.00
+[Type] == "A Fate Worse Than Death" # [StashItem] == "true" // 9.00
+[Type] == "Gift of Asenath" # [StashItem] == "true" // 8.90
+[Type] == "The Forgotten Treasure" # [StashItem] == "true" // 8.50
+[Type] == "Dying Light" # [StashItem] == "true" // 8.20
+[Type] == "Costly Curio" # [StashItem] == "true" // 8.03
+[Type] == "The Nurse" # [StashItem] == "true" // 8.00
+[Type] == "Judging Voices" # [StashItem] == "true" // 7.80
+[Type] == "Who Asked" # [StashItem] == "true" // 7.80
+[Type] == "Lethean Temptation" # [StashItem] == "true" // 7.70
+[Type] == "Audacity" # [StashItem] == "true" // 7.00
+[Type] == "The Garish Power" # [StashItem] == "true" // 7.00
+[Type] == "Ambitious Obsession" # [StashItem] == "true" // 7.00
+[Type] == "Chasing Risk" # [StashItem] == "true" // 7.00
+[Type] == "The One That Got Away" # [StashItem] == "true" // 7.00
+[Type] == "Something Dark" # [StashItem] == "true" // 7.00
+[Type] == "The Bitter Blossom" # [StashItem] == "true" // 6.60
+[Type] == "Azyran's Reward" # [StashItem] == "true" // 6.44
+[Type] == "Keeper's Corruption" # [StashItem] == "true" // 6.20
+[Type] == "Alluring Bounty" # [StashItem] == "true" // 6.00
+[Type] == "The Rabbit's Foot" # [StashItem] == "true" // 6.00
+[Type] == "The Catch" # [StashItem] == "true" // 6.00
+[Type] == "Abandoned Wealth" # [StashItem] == "true" // 5.00
+[Type] == "The Throne" # [StashItem] == "true" // 5.00
+[Type] == "The Saint's Treasure" # [StashItem] == "true" // 5.00
+[Type] == "The Undisputed" # [StashItem] == "true" // 5.00
+[Type] == "Pride of the First Ones" # [StashItem] == "true" // 5.00
+[Type] == "Nook's Crown" # [StashItem] == "true" // 5.00
+[Type] == "Peaceful Moments" # [StashItem] == "true" // 5.00
+[Type] == "A Familiar Call" # [StashItem] == "true" // 5.00
+[Type] == "Draped in Dreams" # [StashItem] == "true" // 5.00
+[Type] == "The Scout" # [StashItem] == "true" // 5.00
+[Type] == "Silence and Frost" # [StashItem] == "true" // 5.00
+[Type] == "The Enforcer" # [StashItem] == "true" // 5.00
+[Type] == "The Wedding Gift" # [StashItem] == "true" // 5.00
+[Type] == "A Dusty Memory" # [StashItem] == "true" // 5.00
+[Type] == "The Rusted Bard" # [StashItem] == "true" // 5.00
+[Type] == "The Hive of Knowledge" # [StashItem] == "true" // 4.95
+[Type] == "The Dungeon Master" # [StashItem] == "true" // 4.90
+[Type] == "The Prince of Darkness" # [StashItem] == "true" // 4.72
+[Type] == "The Hale Heart" # [StashItem] == "true" // 4.50
+[Type] == "Poisoned Faith" # [StashItem] == "true" // 4.50
+[Type] == "The Strategist" # [StashItem] == "true" // 4.40
+[Type] == "Chaotic Disposition" # [StashItem] == "true" // 4.00
+[Type] == "Mawr Blaidd" # [StashItem] == "true" // 4.00
+[Type] == "The Polymath" # [StashItem] == "true" // 4.00
+[Type] == "The Breach" # [StashItem] == "true" // 4.00
+[Type] == "Dark Dreams" # [StashItem] == "true" // 4.00
+[Type] == "Akil's Prophecy" # [StashItem] == "true" // 4.00
+[Type] == "The Damned" # [StashItem] == "true" // 4.00
+[Type] == "The Escape" # [StashItem] == "true" // 4.00
+[Type] == "Brush, Paint and Palette" # [StashItem] == "true" // 4.00
+[Type] == "Lachrymal Necrosis" # [StashItem] == "true" // 4.00
+[Type] == "A Stone Perfected" # [StashItem] == "true" // 4.00
+[Type] == "The Shepherd's Sandals" # [StashItem] == "true" // 4.00
+[Type] == "The Dreamer" # [StashItem] == "true" // 3.90
+[Type] == "The Life Thief" # [StashItem] == "true" // 3.80
+[Type] == "Bijoux" # [StashItem] == "true" // 3.80
+[Type] == "The Finishing Touch" # [StashItem] == "true" // 3.80
+[Type] == "The Tumbleweed" # [StashItem] == "true" // 3.60
+[Type] == "Reckless Ambition" # [StashItem] == "true" // 3.60
+[Type] == "The Blessing of Moosh" # [StashItem] == "true" // 3.60
+[Type] == "Soul Quenched" # [StashItem] == "true" // 3.60
+[Type] == "Brotherhood in Exile" # [StashItem] == "true" // 3.40
+[Type] == "The Fathomless Depths" # [StashItem] == "true" // 3.20
+[Type] == "The Eye of the Dragon" # [StashItem] == "true" // 3.10
+[Type] == "Hunter's Reward" # [StashItem] == "true" // 3.00
+[Type] == "The Lord in Black" # [StashItem] == "true" // 3.00
+[Type] == "The Celestial Stone" # [StashItem] == "true" // 3.00
+[Type] == "Boon of the First Ones" # [StashItem] == "true" // 3.00
+[Type] == "Arrogance of the Vaal" # [StashItem] == "true" // 3.00
+[Type] == "Council of Cats" # [StashItem] == "true" // 3.00
+[Type] == "The Enthusiasts" # [StashItem] == "true" // 3.00
+[Type] == "From Bone to Ashes" # [StashItem] == "true" // 3.00
+[Type] == "The Forward Gaze" # [StashItem] == "true" // 3.00
+[Type] == "Endless Night" # [StashItem] == "true" // 3.00
+[Type] == "Merciless Armament" # [StashItem] == "true" // 2.80
+[Type] == "The Spoiled Prince" # [StashItem] == "true" // 2.80
+[Type] == "The White Knight" # [StashItem] == "true" // 2.60
+[Type] == "The Avenger" # [StashItem] == "true" // 2.25
+[Type] == "The Professor" # [StashItem] == "true" // 2.20
+[Type] == "The Academic" # [StashItem] == "true" // 2.10
+[Type] == "A Mother's Parting Gift" # [StashItem] == "true" // 2.00
+[Type] == "Lucky Deck" # [StashItem] == "true" // 2.00
+[Type] == "Pride Before the Fall" # [StashItem] == "true" // 2.00
+[Type] == "The Conduit" # [StashItem] == "true" // 2.00
+[Type] == "The Dapper Prodigy" # [StashItem] == "true" // 2.00
+[Type] == "The Formless Sea" # [StashItem] == "true" // 2.00
+[Type] == "The Hoarder" # [StashItem] == "true" // 2.00
+[Type] == "The Hunger" # [StashItem] == "true" // 2.00
+[Type] == "The Jester" # [StashItem] == "true" // 2.00
+[Type] == "The Offering" # [StashItem] == "true" // 2.00
+[Type] == "The Risk" # [StashItem] == "true" // 2.00
+[Type] == "The Road to Power" # [StashItem] == "true" // 2.00
+[Type] == "The Thaumaturgist" # [StashItem] == "true" // 2.00
+[Type] == "The Dreamland" # [StashItem] == "true" // 2.00
+[Type] == "Immortal Resolve" # [StashItem] == "true" // 2.00
+[Type] == "The Undaunted" # [StashItem] == "true" // 2.00
+[Type] == "The Darkest Dream" # [StashItem] == "true" // 2.00
+[Type] == "Harmony of Souls" # [StashItem] == "true" // 2.00
+[Type] == "The Wilted Rose" # [StashItem] == "true" // 2.00
+[Type] == "The Price of Protection" # [StashItem] == "true" // 2.00
+[Type] == "Sambodhi's Vow" # [StashItem] == "true" // 2.00
+[Type] == "The Landing" # [StashItem] == "true" // 2.00
+[Type] == "The Messenger" # [StashItem] == "true" // 2.00
+[Type] == "Echoes of Love" # [StashItem] == "true" // 2.00
+[Type] == "Baited Expectations" # [StashItem] == "true" // 2.00
+[Type] == "Deathly Designs" # [StashItem] == "true" // 2.00
+[Type] == "The Unexpected Prize" # [StashItem] == "true" // 2.00
+[Type] == "The Patient" # [StashItem] == "true" // 2.00
+[Type] == "Haunting Shadows" # [StashItem] == "true" // 2.00
+[Type] == "The Card Sharp" # [StashItem] == "true" // 2.00
+[Type] == "Sambodhi's Wisdom" # [StashItem] == "true" // 2.00
+[Type] == "Dementophobia" # [StashItem] == "true" // 2.00
+[Type] == "The Offspring" # [StashItem] == "true" // 2.00
+[Type] == "The Fox in the Brambles" # [StashItem] == "true" // 2.00
+[Type] == "Guardian's Challenge" # [StashItem] == "true" // 2.00
+[Type] == "Justified Ambition" # [StashItem] == "true" // 2.00
+[Type] == "The Magma Crab" # [StashItem] == "true" // 2.00
+[Type] == "Checkmate" # [StashItem] == "true" // 2.00
+[Type] == "Eldritch Perfection" # [StashItem] == "true" // 2.00
+[Type] == "The Golden Era" # [StashItem] == "true" // 1.94
+[Type] == "Bowyer's Dream" # [StashItem] == "true" // 1.90
+[Type] == "The Seeker" # [StashItem] == "true" // 1.90
+[Type] == "The Siren" # [StashItem] == "true" // 1.86
+[Type] == "The Awakened" # [StashItem] == "true" // 1.80
+[Type] == "The Void" # [StashItem] == "true" // 1.75
+[Type] == "The Obscured" # [StashItem] == "true" // 1.70
+[Type] == "The Twilight Moon" # [StashItem] == "true" // 1.70
+[Type] == "The Craving" # [StashItem] == "true" // 1.70
+[Type] == "The Heroic Shot" # [StashItem] == "true" // 1.65
+[Type] == "The Pact" # [StashItem] == "true" // 1.60
+[Type] == "Parasitic Passengers" # [StashItem] == "true" // 1.60
+[Type] == "The Spark and the Flame" # [StashItem] == "true" // 1.55
+[Type] == "The Return of the Rat" # [StashItem] == "true" // 1.53
+[Type] == "The Wind" # [StashItem] == "true" // 1.50
+[Type] == "The Warlord" # [StashItem] == "true" // 1.36
+[Type] == "The Lord of Celebration" # [StashItem] == "true" // 1.30
+[Type] == "The Ethereal" # [StashItem] == "true" // 1.29
+[Type] == "The Insatiable" # [StashItem] == "true" // 1.27
+[Type] == "The Transformation" # [StashItem] == "true" // 1.20
+[Type] == "Shard of Fate" # [StashItem] == "true" // 1.09
+[Type] == "The Porcupine" # [StashItem] == "true" // 1.03
+[Type] == "Assassin's Favour" # [StashItem] == "true" // 1.00
+[Type] == "Blind Venture" # [StashItem] == "true" // 1.00
+[Type] == "Boundless Realms" # [StashItem] == "true" // 1.00
+[Type] == "Cartographer's Delight" # [StashItem] == "true" // 1.00
+[Type] == "Coveted Possession" # [StashItem] == "true" // 1.00
+[Type] == "Death" # [StashItem] == "true" // 1.00
+[Type] == "Dialla's Subjugation" # [StashItem] == "true" // 1.00
+[Type] == "Doedre's Madness" # [StashItem] == "true" // 1.00
+[Type] == "Earth Drinker" # [StashItem] == "true" // 1.00
+[Type] == "Emperor of Purity" # [StashItem] == "true" // 1.00
+[Type] == "Emperor's Luck" # [StashItem] == "true" // 1.00
+[Type] == "Gemcutter's Promise" # [StashItem] == "true" // 1.00
+[Type] == "Gift of the Gemling Queen" # [StashItem] == "true" // 1.00
+[Type] == "Glimmer of Hope" # [StashItem] == "true" // 1.00
+[Type] == "Grave Knowledge" # [StashItem] == "true" // 1.00
+[Type] == "Her Mask" # [StashItem] == "true" // 1.00
+[Type] == "Heterochromia" # [StashItem] == "true" // 1.00
+[Type] == "Hope" # [StashItem] == "true" // 1.00
+[Type] == "Hubris" # [StashItem] == "true" // 1.00
+[Type] == "Humility" # [StashItem] == "true" // 1.00
+[Type] == "Hunter's Resolve" # [StashItem] == "true" // 1.00
+[Type] == "Jack in the Box" # [StashItem] == "true" // 1.00
+[Type] == "Lantador's Lost Love" # [StashItem] == "true" // 1.00
+[Type] == "Last Hope" # [StashItem] == "true" // 1.00
+[Type] == "Lost Worlds" # [StashItem] == "true" // 1.00
+[Type] == "Loyalty" # [StashItem] == "true" // 1.00
+[Type] == "Lucky Connections" # [StashItem] == "true" // 1.00
+[Type] == "Lysah's Respite" # [StashItem] == "true" // 1.00
+[Type] == "Prosperity" # [StashItem] == "true" // 1.00
+[Type] == "Rain Tempter" # [StashItem] == "true" // 1.00
+[Type] == "Rats" # [StashItem] == "true" // 1.00
+[Type] == "Scholar of the Seas" # [StashItem] == "true" // 1.00
+[Type] == "The Aesthete" # [StashItem] == "true" // 1.00
+[Type] == "The Arena Champion" # [StashItem] == "true" // 1.00
+[Type] == "The Battle Born" # [StashItem] == "true" // 1.00
+[Type] == "The Betrayal" # [StashItem] == "true" // 1.00
+[Type] == "The Body" # [StashItem] == "true" // 1.00
+[Type] == "The Brittle Emperor" # [StashItem] == "true" // 1.00
+[Type] == "The Calling" # [StashItem] == "true" // 1.00
+[Type] == "The Carrion Crow" # [StashItem] == "true" // 1.00
+[Type] == "The Cartographer" # [StashItem] == "true" // 1.00
+[Type] == "The Cataclysm" # [StashItem] == "true" // 1.00
+[Type] == "The Catalyst" # [StashItem] == "true" // 1.00
+[Type] == "The Celestial Justicar" # [StashItem] == "true" // 1.00
+[Type] == "The Chains that Bind" # [StashItem] == "true" // 1.00
+[Type] == "The Cursed King" # [StashItem] == "true" // 1.00
+[Type] == "The Dark Mage" # [StashItem] == "true" // 1.00
+[Type] == "The Demoness" # [StashItem] == "true" // 1.00
+[Type] == "The Doppelganger" # [StashItem] == "true" // 1.00
+[Type] == "The Dragon" # [StashItem] == "true" // 1.00
+[Type] == "The Encroaching Darkness" # [StashItem] == "true" // 1.00
+[Type] == "The Endurance" # [StashItem] == "true" // 1.00
+[Type] == "The Explorer" # [StashItem] == "true" // 1.00
+[Type] == "The Feast" # [StashItem] == "true" // 1.00
+[Type] == "The Fletcher" # [StashItem] == "true" // 1.00
+[Type] == "The Flora's Gift" # [StashItem] == "true" // 1.00
+[Type] == "The Fox" # [StashItem] == "true" // 1.00
+[Type] == "The Gambler" # [StashItem] == "true" // 1.00
+[Type] == "The Gemcutter" # [StashItem] == "true" // 1.00
+[Type] == "The Gentleman" # [StashItem] == "true" // 1.00
+[Type] == "The Gladiator" # [StashItem] == "true" // 1.00
+[Type] == "The Harvester" # [StashItem] == "true" // 1.00
+[Type] == "The Hermit" # [StashItem] == "true" // 1.00
+[Type] == "The Incantation" # [StashItem] == "true" // 1.00
+[Type] == "The Inoculated" # [StashItem] == "true" // 1.00
+[Type] == "The Inventor" # [StashItem] == "true" // 1.00
+[Type] == "The King's Heart" # [StashItem] == "true" // 1.00
+[Type] == "The Lich" # [StashItem] == "true" // 1.00
+[Type] == "The Lion" # [StashItem] == "true" // 1.00
+[Type] == "The Lover" # [StashItem] == "true" // 1.00
+[Type] == "The Lunaris Priestess" # [StashItem] == "true" // 1.00
+[Type] == "The Mercenary" # [StashItem] == "true" // 1.00
+[Type] == "The Metalsmith's Gift" # [StashItem] == "true" // 1.00
+[Type] == "The Oath" # [StashItem] == "true" // 1.00
+[Type] == "The One With All" # [StashItem] == "true" // 1.00
+[Type] == "The Pack Leader" # [StashItem] == "true" // 1.00
+[Type] == "The Penitent" # [StashItem] == "true" // 1.00
+[Type] == "The Poet" # [StashItem] == "true" // 1.00
+[Type] == "The Rabid Rhoa" # [StashItem] == "true" // 1.00
+[Type] == "The Scarred Meadow" # [StashItem] == "true" // 1.00
+[Type] == "The Scavenger" # [StashItem] == "true" // 1.00
+[Type] == "The Sigil" # [StashItem] == "true" // 1.00
+[Type] == "The Stormcaller" # [StashItem] == "true" // 1.00
+[Type] == "The Summoner" # [StashItem] == "true" // 1.00
+[Type] == "The Sun" # [StashItem] == "true" // 1.00
+[Type] == "The Surgeon" # [StashItem] == "true" // 1.00
+[Type] == "The Surveyor" # [StashItem] == "true" // 1.00
+[Type] == "The Survivalist" # [StashItem] == "true" // 1.00
+[Type] == "The Tower" # [StashItem] == "true" // 1.00
+[Type] == "The Traitor" # [StashItem] == "true" // 1.00
+[Type] == "The Trial" # [StashItem] == "true" // 1.00
+[Type] == "The Twins" # [StashItem] == "true" // 1.00
+[Type] == "The Tyrant" # [StashItem] == "true" // 1.00
+[Type] == "The Valkyrie" # [StashItem] == "true" // 1.00
+[Type] == "The Visionary" # [StashItem] == "true" // 1.00
+[Type] == "The Warden" # [StashItem] == "true" // 1.00
+[Type] == "The Watcher" # [StashItem] == "true" // 1.00
+[Type] == "The Web" # [StashItem] == "true" // 1.00
+[Type] == "The Wolf" # [StashItem] == "true" // 1.00
+[Type] == "The Wolf's Shadow" # [StashItem] == "true" // 1.00
+[Type] == "The Wrath" # [StashItem] == "true" // 1.00
+[Type] == "Thunderous Skies" # [StashItem] == "true" // 1.00
+[Type] == "Time-Lost Relic" # [StashItem] == "true" // 1.00
+[Type] == "Turn the Other Cheek" # [StashItem] == "true" // 1.00
+[Type] == "Vinia's Token" # [StashItem] == "true" // 1.00
+[Type] == "Volatile Power" # [StashItem] == "true" // 1.00
+[Type] == "Mitts" # [StashItem] == "true" // 1.00
+[Type] == "Call to the First Ones" # [StashItem] == "true" // 1.00
+[Type] == "The Wretched" # [StashItem] == "true" // 1.00
+[Type] == "The Wolven King's Bite" # [StashItem] == "true" // 1.00
+[Type] == "The Wolverine" # [StashItem] == "true" // 1.00
+[Type] == "The Standoff" # [StashItem] == "true" // 1.00
+[Type] == "The Forsaken" # [StashItem] == "true" // 1.00
+[Type] == "Might is Right" # [StashItem] == "true" // 1.00
+[Type] == "Atziri's Arsenal" # [StashItem] == "true" // 1.00
+[Type] == "The Opulent" # [StashItem] == "true" // 1.00
+[Type] == "Struck by Lightning" # [StashItem] == "true" // 1.00
+[Type] == "The Blazing Fire" # [StashItem] == "true" // 1.00
+[Type] == "The Ruthless Ceinture" # [StashItem] == "true" // 1.00
+[Type] == "The Realm" # [StashItem] == "true" // 1.00
+[Type] == "Left to Fate" # [StashItem] == "true" // 1.00
+[Type] == "The Deceiver" # [StashItem] == "true" // 1.00
+[Type] == "The Puzzle" # [StashItem] == "true" // 1.00
+[Type] == "Forbidden Power" # [StashItem] == "true" // 1.00
+[Type] == "Three Voices" # [StashItem] == "true" // 1.00
+[Type] == "The Jeweller's Boon" # [StashItem] == "true" // 1.00
+[Type] == "The Army of Blood" # [StashItem] == "true" // 1.00
+[Type] == "The Beast" # [StashItem] == "true" // 1.00
+[Type] == "Perfection" # [StashItem] == "true" // 1.00
+[Type] == "The Sword King's Salute" # [StashItem] == "true" // 1.00
+[Type] == "The Master" # [StashItem] == "true" // 1.00
+[Type] == "The Rite of Elements" # [StashItem] == "true" // 1.00
+[Type] == "The Admirer" # [StashItem] == "true" // 1.00
+[Type] == "The Witch" # [StashItem] == "true" // 1.00
+[Type] == "The Cacophony" # [StashItem] == "true" // 1.00
+[Type] == "The Master Artisan" # [StashItem] == "true" // 1.00
+[Type] == "A Dab of Ink" # [StashItem] == "true" // 1.00
+[Type] == "Alone in the Darkness" # [StashItem] == "true" // 1.00
+[Type] == "Dark Temptation" # [StashItem] == "true" // 1.00
+[Type] == "The Journey" # [StashItem] == "true" // 1.00
+[Type] == "Boon of Justice" # [StashItem] == "true" // 1.00
+[Type] == "Vanity" # [StashItem] == "true" // 1.00
+[Type] == "Thirst for Knowledge" # [StashItem] == "true" // 1.00
+[Type] == "The Deep Ones" # [StashItem] == "true" // 1.00
+[Type] == "The Fool" # [StashItem] == "true" // 1.00
+[Type] == "Demigod's Wager" # [StashItem] == "true" // 1.00
+[Type] == "Buried Treasure" # [StashItem] == "true" // 1.00
+[Type] == "The Primordial" # [StashItem] == "true" // 1.00
+[Type] == "The Archmage's Right Hand" # [StashItem] == "true" // 1.00
+[Type] == "Vile Power" # [StashItem] == "true" // 1.00
+[Type] == "The Mountain" # [StashItem] == "true" // 1.00
+[Type] == "The Skeleton" # [StashItem] == "true" // 1.00
+[Type] == "The Wolf's Legacy" # [StashItem] == "true" // 1.00
+[Type] == "The Deal" # [StashItem] == "true" // 1.00
+[Type] == "The Side Quest" # [StashItem] == "true" // 1.00
+[Type] == "Cameria's Cut" # [StashItem] == "true" // 1.00
+[Type] == "The Bones" # [StashItem] == "true" // 1.00
+[Type] == "The Tinkerer's Table" # [StashItem] == "true" // 1.00
+[Type] == "The Easy Stroll" # [StashItem] == "true" // 1.00
+[Type] == "A Note in the Wind" # [StashItem] == "true" // 1.00
+[Type] == "Triskaidekaphobia" # [StashItem] == "true" // 1.00
+[Type] == "Unchained" # [StashItem] == "true" // 1.00
+[Type] == "The Cache" # [StashItem] == "true" // 1.00
+[Type] == "Cursed Words" # [StashItem] == "true" // 1.00
+[Type] == "Society's Remorse" # [StashItem] == "true" // 1.00
+[Type] == "The Whiteout" # [StashItem] == "true" // 1.00
+[Type] == "The Bear Woman" # [StashItem] == "true" // 1.00
+[Type] == "Acclimatisation" # [StashItem] == "true" // 1.00
+[Type] == "Prejudice" # [StashItem] == "true" // 1.00
+[Type] == "The Adventuring Spirit" # [StashItem] == "true" // 1.00
+[Type] == "A Sea of Blue" # [StashItem] == "true" // 1.00
+[Type] == "The Mind's Eyes" # [StashItem] == "true" // 1.00
+[Type] == "Disdain" # [StashItem] == "true" // 1.00
+[Type] == "Desperate Crusade" # [StashItem] == "true" // 1.00
+[Type] == "The Tireless Extractor" # [StashItem] == "true" // 1.00
+[Type] == "The Brawny Battle Mage" # [StashItem] == "true" // 1.00
+[Type] == "Astral Protection" # [StashItem] == "true" // 1.00
+[Type] == "Azure Rage" # [StashItem] == "true" // 1.00
+[Type] == "Broken Truce" # [StashItem] == "true" // 1.00
+[Type] == "Ever-Changing" # [StashItem] == "true" // 1.00
+[Type] == "Man With Bear" # [StashItem] == "true" // 1.00
+[Type] == "A Chilling Wind" # [StashItem] == "true" // 1.00
+[Type] == "Three Faces in the Dark" # [StashItem] == "true" // 0.99
+[Type] == "Destined to Crumble" # [StashItem] == "true" // 0.98
+[Type] == "Dying Anguish" # [StashItem] == "true" // 0.97
+[Type] == "Lingering Remnants" # [StashItem] == "true" // 0.96
+[Type] == "No Traces" # [StashItem] == "true" // 0.95
+[Type] == "Light and Truth" # [StashItem] == "true" // 0.91
+[Type] == "The Coming Storm" # [StashItem] == "true" // 0.88
+[Type] == "The Innocent" # [StashItem] == "true" // 0.88
+[Type] == "Treasure Hunter" # [StashItem] == "true" // 0.83
+[Type] == "The Scholar" # [StashItem] == "true" // 0.81
+[Type] == "The Journalist" # [StashItem] == "true" // 0.81
+[Type] == "The King's Blade" # [StashItem] == "true" // 0.80
+[Type] == "Alivia's Grace" # [StashItem] == "true" // 0.73
+[Type] == "The Drunken Aristocrat" # [StashItem] == "true" // 0.62
+[Type] == "The Union" # [StashItem] == "true" // 0.58
+[Type] == "Imperial Legacy" # [StashItem] == "true" // 0.45
+[Type] == "Rain of Chaos" # [StashItem] == "true" // 0.20

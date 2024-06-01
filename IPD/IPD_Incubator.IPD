@@ -1,0 +1,24 @@
+﻿[Type] == "Whispering Incubator" # [StashItem] == "true" // 15.30
+[Type] == "Ornate Incubator" # [StashItem] == "true" // 4.00
+[Type] == "Singular Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Primal Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Celestial Jeweller's Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Fine Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Cartographer's Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Skittering Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Diviner's Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Fossilised Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Abyssal Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Thaumaturge's Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Mysterious Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Foreboding Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Otherworldly Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Geomancer's Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Obscured Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Infused Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Fragmented Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Maddening Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Blighted Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Kalguuran Incubator" # [StashItem] == "true" // 1.00
+[Type] == "Celestial Blacksmith's Incubator" # [StashItem] == "true" // 0.82
+[Type] == "Celestial Armoursmith's Incubator" # [StashItem] == "true" // 0.80

@@ -1,0 +1,15 @@
+﻿[Type] == "Tainted Oil" # [StashItem] == "true" // 465.84
+[Type] == "Golden Oil" # [StashItem] == "true" // 80.00
+[Type] == "Silver Oil" # [StashItem] == "true" // 32.00
+[Type] == "Opalescent Oil" # [StashItem] == "true" // 11.00
+[Type] == "Black Oil" # [StashItem] == "true" // 4.00
+[Type] == "Crimson Oil" # [StashItem] == "true" // 3.00
+[Type] == "Reflective Oil" # [StashItem] == "true" // 3.00
+[Type] == "Violet Oil" # [StashItem] == "true" // 1.00
+[Type] == "Indigo Oil" # [StashItem] == "true" // 0.99
+[Type] == "Azure Oil" # [StashItem] == "true" // 0.90
+[Type] == "Teal Oil" # [StashItem] == "true" // 0.50
+[Type] == "Verdant Oil" # [StashItem] == "true" // 0.20
+[Type] == "Amber Oil" # [StashItem] == "true" // 0.11
+[Type] == "Sepia Oil" # [StashItem] == "true" // 0.09
+[Type] == "Clear Oil" # [StashItem] == "true" // 0.08

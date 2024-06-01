@@ -1,0 +1,17 @@
+﻿[Type] == "Skittering Delirium Orb" # [StashItem] == "true" // 15.00
+[Type] == "Diviner's Delirium Orb" # [StashItem] == "true" // 9.00
+[Type] == "Cartographer's Delirium Orb" # [StashItem] == "true" // 5.00
+[Type] == "Abyssal Delirium Orb" # [StashItem] == "true" // 5.00
+[Type] == "Singular Delirium Orb" # [StashItem] == "true" // 5.00
+[Type] == "Obscured Delirium Orb" # [StashItem] == "true" // 5.00
+[Type] == "Fossilised Delirium Orb" # [StashItem] == "true" // 5.00
+[Type] == "Thaumaturge's Delirium Orb" # [StashItem] == "true" // 5.00
+[Type] == "Foreboding Delirium Orb" # [StashItem] == "true" // 5.00
+[Type] == "Fine Delirium Orb" # [StashItem] == "true" // 5.00
+[Type] == "Blighted Delirium Orb" # [StashItem] == "true" // 5.00
+[Type] == "Timeless Delirium Orb" # [StashItem] == "true" // 5.00
+[Type] == "Whispering Delirium Orb" # [StashItem] == "true" // 4.80
+[Type] == "Fragmented Delirium Orb" # [StashItem] == "true" // 4.00
+[Type] == "Jeweller's Delirium Orb" # [StashItem] == "true" // 3.00
+[Type] == "Armoursmith's Delirium Orb" # [StashItem] == "true" // 3.00
+[Type] == "Blacksmith's Delirium Orb" # [StashItem] == "true" // 3.00

@@ -1,0 +1,12 @@
+﻿[Type] == "Einhar's Memory of Harvest Beasts" # [StashItem] == "true" // 1719.34
+[Type] == "Einhar's Memory of the Sacred Grove" # [StashItem] == "true" // 75.00
+[Type] == "Einhar's Memory of Crystal Prisons" # [StashItem] == "true" // 40.00
+[Type] == "Kirac's Memory of Phaaryl" # [StashItem] == "true" // 5.00
+[Type] == "Alva's Memory of Reverse Incursion" # [StashItem] == "true" // 5.00
+[Type] == "Kirac's Memory of the Pantheon" # [StashItem] == "true" // 5.00
+[Type] == "Niko's Memory of Tormented Souls" # [StashItem] == "true" // 5.00
+[Type] == "Niko's Memory of Demonic Onslaught" # [StashItem] == "true" // 5.00
+[Type] == "Alva's Memory of Cascading Fortunes" # [StashItem] == "true" // 5.00
+[Type] == "Niko's Memory of Chasms" # [StashItem] == "true" // 5.00
+[Type] == "Niko's Memory of Grasping Hands" # [StashItem] == "true" // 5.00
+[Type] == "Kirac's Memory of Survivor's Guilt" # [StashItem] == "true" // 5.00

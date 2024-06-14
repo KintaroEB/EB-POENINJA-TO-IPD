@@ -53,6 +53,12 @@ chaosValues["UniqueWeapon"]     := 999999.0
 chaosValues["UniqueArmour"]     := 999999.0
 chaosValues["UniqueAccessory"]  := 999999.0
 
+/**
+*   5 and 6 link bodyarmors/weapons are ignored
+*   all items usually have 3 entries: unlinked/5link/6link
+*   we only care about unlinked market value
+*/
+
 
 ; special category for map ipd - value has no effect
 chaosValues["Map"]              := 0.0
@@ -249,9 +255,11 @@ for indexA, category in allCategories
             if (item.chaosValue < currentChaosValue)
             {
                 if (!uniqueNames.HasKey(item.name)) {
-                    uniqueNames[item.name] := true
-                    output := "[UniqueName] == """ item.name """ # [ForceSellItem] == ""true"" // "   item.chaosValue
-                    FileAppend, %output%`n, %filePath%
+                    if (item.links < 5) {
+                        uniqueNames[item.name] := true
+                        output := "[UniqueName] == """ item.name """ # [ForceSellItem] == ""true"" // "   item.chaosValue
+                        FileAppend, %output%`n, %filePath%
+                    }
                 }
 
             }

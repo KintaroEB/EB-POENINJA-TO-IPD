@@ -1,0 +1,495 @@
+//
+//
+// Creation Date: 17.06.2024 00:26:37
+//
+// Now entirely automated generation with:  https://github.com/KintaroEB/EB-JSON-IPD
+// Data used from poe.ninja/api/ : https://github.com/ayberkgezer/poe.ninja-API-Document
+// Feedback please to @kintaro_oe Discord - or channel #map-ipd
+//
+// Exiled Bot Map IPD
+//
+// Maps to run are defined by "Type" - essentially the full name
+// By default, all unique and Tier 16 maps are disabled
+// Maps with physical/elemental reflect and no regen mods are disabled
+// Maps currently not working properly are disabled as well
+// Fell free to create your own rules if you completely understand how it works
+// 
+// 1 Basic Settings
+// 2 Map Types 	- RunMap
+// 3 Map Types 	- SkipBossArena/UpgradeTier 
+// 4 Map Mods	- Important Reroll
+// 5 Map Mods 	- Reroll
+// 6 Map Mods 	- Ignore
+// 7 Unique Maps
+// 8 Original Description
+// 9 PS
+
+
+// 1 Basic Settings
+
+// Upgrading Quality
+// [Quality] <= "16" && [Rarity] == "Normal" # [UpgradeQuality] == "true"
+
+// Tiers to run (difficult to use since a Map can have multiple tiers)
+[MapTier] >= "1" && [MapTier] <= "16" # [RunMap] == "true"
+
+// Upgrade to RARE higher priority than Upgrade to Magic
+[Rarity] == "Normal" 	# [UpgradeToRare] == "true"
+// Upgrade to MAGIC
+[Rarity] == "Normal" 	# [UpgradeToMagic] == "true"
+[Rarity] == "Magic" 	# [AugmentIfPossible] == "true"
+
+
+// 2 Map Types RunMap
+[Type] == "Fortress Map" # [RunMap] == "true"
+[Type] == "Sanctuary Map" # [RunMap] == "true"
+[Type] == "Ziggurat Map" # [RunMap] == "true"
+[Type] == "Abomination Map" # [RunMap] == "true"
+[Type] == "Citadel Map" # [RunMap] == "true"
+[Type] == "Vaal Temple Map" # [RunMap] == "true"
+[Type] == "Strand Map" # [RunMap] == "true"
+[Type] == "Maze Map" # [RunMap] == "true"
+[Type] == "Estuary Map" # [RunMap] == "true"
+[Type] == "Arena Map" # [RunMap] == "true"
+[Type] == "Underground River Map" # [RunMap] == "true"
+[Type] == "Lair of the Hydra Map" # [RunMap] == "true"
+[Type] == "Vault Map" # [RunMap] == "true"
+[Type] == "Temple Map" # [RunMap] == "true"
+[Type] == "Defiled Cathedral Map" # [RunMap] == "true"
+[Type] == "Pit of the Chimera Map" # [RunMap] == "true"
+[Type] == "Canyon Map" # [RunMap] == "true"
+[Type] == "Bog Map" # [RunMap] == "true"
+[Type] == "Cold River Map" # [RunMap] == "true"
+[Type] == "Port Map" # [RunMap] == "true"
+[Type] == "Maze of the Minotaur Map" # [RunMap] == "true"
+[Type] == "Forge of the Phoenix Map" # [RunMap] == "true"
+[Type] == "Forbidden Woods Map" # [RunMap] == "true"
+[Type] == "Necropolis Map" # [RunMap] == "true"
+[Type] == "Residence Map" # [RunMap] == "true"
+[Type] == "Mineral Pools Map" # [RunMap] == "true"
+[Type] == "Channel Map" # [RunMap] == "true"
+[Type] == "Toxic Sewer Map" # [RunMap] == "true"
+[Type] == "Crimson Temple Map" # [RunMap] == "true"
+[Type] == "Frozen Cabins Map" # [RunMap] == "true"
+[Type] == "Excavation Map" # [RunMap] == "true"
+[Type] == "Glacier Map" # [RunMap] == "true"
+[Type] == "Barrows Map" # [RunMap] == "true"
+[Type] == "Reef Map" # [RunMap] == "true"
+[Type] == "Silo Map" # [RunMap] == "true"
+[Type] == "Ashen Wood Map" # [RunMap] == "true"
+[Type] == "Sunken City Map" # [RunMap] == "true"
+[Type] == "Dungeon Map" # [RunMap] == "true"
+[Type] == "Bramble Valley Map" # [RunMap] == "true"
+[Type] == "Sulphur Vents Map" # [RunMap] == "true"
+[Type] == "Palace Map" # [RunMap] == "true"
+[Type] == "Lava Lake Map" # [RunMap] == "true"
+[Type] == "Forking River Map" # [RunMap] == "true"
+[Type] == "Acid Caverns Map" # [RunMap] == "true"
+[Type] == "Jungle Valley Map" # [RunMap] == "true"
+[Type] == "Plaza Map" # [RunMap] == "true"
+[Type] == "Vaal Pyramid Map" # [RunMap] == "true"
+[Type] == "Shipyard Map" # [RunMap] == "true"
+[Type] == "Museum Map" # [RunMap] == "true"
+[Type] == "Cemetery Map" # [RunMap] == "true"
+[Type] == "Moon Temple Map" # [RunMap] == "true"
+[Type] == "Stagnation Map" # [RunMap] == "true"
+[Type] == "Mausoleum Map" # [RunMap] == "true"
+[Type] == "Dunes Map" # [RunMap] == "true"
+[Type] == "Fungal Hollow Map" # [RunMap] == "true"
+[Type] == "Overgrown Shrine Map" # [RunMap] == "true"
+[Type] == "Crystal Ore Map" # [RunMap] == "true"
+[Type] == "Volcano Map" # [RunMap] == "true"
+[Type] == "Foundry Map" # [RunMap] == "true"
+[Type] == "Fields Map" # [RunMap] == "true"
+[Type] == "Cells Map" # [RunMap] == "true"
+[Type] == "Phantasmagoria Map" # [RunMap] == "true"
+[Type] == "Flooded Mine Map" # [RunMap] == "true"
+[Type] == "Grotto Map" # [RunMap] == "true"
+[Type] == "Pier Map" # [RunMap] == "true"
+[Type] == "Iceberg Map" # [RunMap] == "true"
+[Type] == "Tropical Island Map" # [RunMap] == "true"
+[Type] == "Wharf Map" # [RunMap] == "true"
+[Type] == "Arid Lake Map" # [RunMap] == "true"
+[Type] == "Siege Map" # [RunMap] == "true"
+[Type] == "Orchard Map" # [RunMap] == "true"
+[Type] == "Cursed Crypt Map" # [RunMap] == "true"
+[Type] == "Basilica Map" # [RunMap] == "true"
+[Type] == "Lair Map" # [RunMap] == "true"
+[Type] == "Bone Crypt Map" # [RunMap] == "true"
+[Type] == "Underground Sea Map" # [RunMap] == "true"
+[Type] == "Atoll Map" # [RunMap] == "true"
+[Type] == "Waterways Map" # [RunMap] == "true"
+[Type] == "Primordial Pool Map" # [RunMap] == "true"
+[Type] == "Graveyard Map" # [RunMap] == "true"
+[Type] == "Courthouse Map" # [RunMap] == "true"
+[Type] == "Shore Map" # [RunMap] == "true"
+[Type] == "Terrace Map" # [RunMap] == "true"
+[Type] == "Conservatory Map" # [RunMap] == "true"
+[Type] == "Burial Chambers Map" # [RunMap] == "true"
+[Type] == "Arcade Map" # [RunMap] == "true"
+[Type] == "Promenade Map" # [RunMap] == "true"
+[Type] == "Crimson Township Map" # [RunMap] == "true"
+[Type] == "Dry Sea Map" # [RunMap] == "true"
+[Type] == "Courtyard Map" # [RunMap] == "true"
+[Type] == "Wasteland Map" # [RunMap] == "true"
+[Type] == "Gardens Map" # [RunMap] == "true"
+[Type] == "Arachnid Nest Map" # [RunMap] == "true"
+[Type] == "Arsenal Map" # [RunMap] == "true"
+[Type] == "Tower Map" # [RunMap] == "true"
+[Type] == "Pit Map" # [RunMap] == "true"
+[Type] == "Shrine Map" # [RunMap] == "true"
+[Type] == "Cage Map" # [RunMap] == "true"
+[Type] == "Lava Chamber Map" # [RunMap] == "true"
+[Type] == "Spider Forest Map" # [RunMap] == "true"
+[Type] == "Grave Trough Map" # [RunMap] == "true"
+[Type] == "Belfry Map" # [RunMap] == "true"
+[Type] == "Thicket Map" # [RunMap] == "true"
+[Type] == "Lookout Map" # [RunMap] == "true"
+[Type] == "Castle Ruins Map" # [RunMap] == "true"
+[Type] == "Park Map" # [RunMap] == "true"
+[Type] == "Plateau Map" # [RunMap] == "true"
+[Type] == "Academy Map" # [RunMap] == "true"
+[Type] == "Waste Pool Map" # [RunMap] == "true"
+[Type] == "Desert Spring Map" # [RunMap] == "true"
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// 3 Map Types IgnoreMap/SkipBossArena/UpgradeTier																	//
+// IMPORTANT!																										//
+// - above you will find a list of all currently available maps														//
+// - check the list below as a reference and change "RunMap" to whatever is needed									//
+// - please share your ignore/skip/upgrade list in Discord <3														//
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// [Type] == "Vault Map" 				 # [IgnoreMap] == "true" // unable to run
+// [Type] == "Plaza Map" 				 # [IgnoreMap] == "true" // unable to run
+// [Type] == "Vaal Pyramid Map" 		 # [IgnoreMap] == "true" // unable to run
+
+// [Type] == "Forge of the Phoenix Map"  # [IgnoreMap] == "true" // Guardian Map
+// [Type] == "Lair of the Hydra Map" 	 # [IgnoreMap] == "true" // Guardian Map
+// [Type] == "Maze of the Minotaur Map"  # [IgnoreMap] == "true" // Guardian Map
+// [Type] == "Pit of the Chimera Map" 	 # [IgnoreMap] == "true" // Guardian Map
+
+// [Type] == "Desert Spring Map" 	# [SkipBossArena] == "true" // Pantheon scorpion boss
+// [Type] == "Basilica Map" 		# [SkipBossArena] == "true" // Innocence boss
+// [Type] == "Belfry Map" 			# [SkipBossArena] == "true" // A5 Kitava boss
+// [Type] == "Graveyard Map" 		# [SkipBossArena] == "true" // Skeleton trio bosses, doesn't wait for spawns
+// [Type] == "Core Map" 			# [SkipBossArena] == "true" // A9 Trio boss
+// [Type] == "Dark Forest Map" 		# [SkipBossArena] == "true" // Wolf boss
+// [Type] == "Lair Map" 			# [SkipBossArena] == "true" // Wolf boss
+// [Type] == "Lava Chamber Map" 	# [SkipBossArena] == "true" // Buttons on the arena to press
+// [Type] == "Malformation Map" 	# [SkipBossArena] == "true" // Corrupted Piety boss
+// [Type] == "Pier Map" 			# [SkipBossArena] == "true" // Traps
+// [Type] == "Racecourse Map" 		# [SkipBossArena] == "true" // Mini-boss with damage reflection aura
+// [Type] == "Reef Map" 			# [SkipBossArena] == "true" // (\/)!_!(\/) boss
+// [Type] == "Siege Map" 			# [SkipBossArena] == "true" // Tukokhama boss
+// [Type] == "Terrace Map" 			# [SkipBossArena] == "true" // Yugul boss, bot doesn't wait for spawns
+// [Type] == "Vaal Temple Map" 		# [SkipBossArena] == "true" // don't even try this
+// [Type] == "Infested Valley Map" 	# [SkipBossArena] == "true" // Gets stuck attacking nothing
+
+// [Type] == "Plaza Map" 			# [UpgradeMapTier] == "true" // triggered doors
+// [Type] == "Vault Map" 			# [UpgradeMapTier] == "true" // triggered doors
+// [Type] == "Arachnid Tomb Map" 	# [UpgradeMapTier] == "true" // sometimes buggy
+// [Type] == "Arena Map" 			# [UpgradeMapTier] == "true" // sometimes buggy
+// [Type] == "Barrows Map" 			# [UpgradeMapTier] == "true" // sometimes buggy
+// [Type] == "Caldera Map" 			# [UpgradeMapTier] == "true" // sometimes buggy
+// [Type] == "Carcass Map" 			# [UpgradeMapTier] == "true" // sometimes buggy
+// [Type] == "Colosseum Map" 		# [UpgradeMapTier] == "true" // sometimes buggy
+// [Type] == "Glacier Map" 			# [UpgradeMapTier] == "true" // sometimes buggy
+// [Type] == "Lair Map" 			# [UpgradeMapTier] == "true" // sometimes buggy
+// [Type] == "Malformation Map" 	# [UpgradeMapTier] == "true" // sometimes buggy
+// [Type] == "Maze Map" 			# [UpgradeMapTier] == "true" // sometimes buggy
+// [Type] == "Overgrown Ruin Map" 	# [UpgradeMapTier] == "true" // sometimes buggy
+// [Type] == "Overgrown Shrine Map" # [UpgradeMapTier] == "true" // sometimes buggy
+// [Type] == "Palace Map" 			# [UpgradeMapTier] == "true" // sometimes buggy
+// [Type] == "Racecourse Map" 		# [UpgradeMapTier] == "true" // sometimes buggy
+// [Type] == "Ramparts Map" 		# [UpgradeMapTier] == "true" // sometimes buggy
+// [Type] == "Tower Map" 			# [UpgradeMapTier] == "true" // sometimes buggy
+// [Type] == "Tropical Island Map" 	# [UpgradeMapTier] == "true" // sometimes buggy
+// [Type] == "Vaal Pyramid Map" 	# [UpgradeMapTier] == "true" // sometimes buggy
+// [Type] == "Villa Map" 			# [UpgradeMapTier] == "true" // sometimes buggy
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// -- 4 Map Mods Important Reroll
+// REROLL magic maps with Alteration
+[map_monsters_reflect_%_elemental_damage] 	>= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Mirrored -- Monsters Reflect % Elemental Damage
+[map_monsters_reflect_%_physical_damage] 	>= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Punishing -- Monsters Reflect % Physical Damage
+[map_players_no_regeneration_including_es] 	>= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Statis -- Players have no Life or Mana Regeneration
+
+// REROLL rare maps with Chaos
+// [map_monsters_reflect_%_elemental_damage] 	>= "1" && [Rarity] == "Rare" # [RerollMods] == "true" // Mirrored -- Monsters Reflect % Elemental Damage
+// [map_monsters_reflect_%_physical_damage] 	>= "1" && [Rarity] == "Rare" # [RerollMods] == "true" // Punishing -- Monsters Reflect % Physical Damage
+// [map_players_no_regeneration_including_es] 	>= "1" && [Rarity] == "Rare" # [RerollMods] == "true" // Of Statis -- Players have no Life or Mana Regeneration
+
+// IGNORE rare maps
+[map_monsters_reflect_%_elemental_damage] 	>= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Mirrored -- Monsters Reflect % Elemental Damage
+[map_monsters_reflect_%_physical_damage] 	>= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Punishing -- Monsters Reflect % Physical Damage
+[map_players_no_regeneration_including_es] 	>= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Statis -- Players have no Life or Mana Regeneration
+
+
+// -- 5 Map Mods Reroll
+// __ Prefix
+// [map_packs_are_abomination_monsters] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Abhorrent - Monsters are abominations
+// [map_spawn_extra_exiles] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Anarchic -- 2+ Rogue Exiles
+// [map_rare_monsters_have_nemesis_mod] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Antagonist's -- Nemesis Mod
+// [map_packs_are_humanoids] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Bipedal -- Humanoid Mobs
+// [map_packs_are_goatmen] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Capricious -- Goatmen Mobs
+// [map_packs_are_totems] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Ceremonial -- Contains Totems
+// [map_monster_skills_chain_X_additional_times] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Chaining -- Chain +2 Times
+// [map_monsters_always_ignite] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Conflagrating -- All Monster Damage from Hits always Ignites
+// [map_packs_are_demons] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Demonic -- Demon Mobs
+// [map_packs_fire_projectiles] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Emanant -- Nemesis Mod
+// [map_packs_are_kitava] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Feasting - not sure it works
+// [map_packs_are_animals] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Feral -- Animal Mobs
+// [map_packs_are_ghosts] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Haunting - Ghosts
+// [map_packs_are_lunaris] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Lunar - Lunaris mobs
+// [map_additional_number_of_packs_to_choose] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Multifarious -- Increased Variety Mobs
+// [map_beyond_chance_%] >= "1"  && [Rarity] == "Magic" # [RerollMods] == "true" // Otherworldly -- Beyond Spawned Mobs
+// [map_packs_are_skeletons] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Skeletal -- Skeleton Mobs 
+// [map_packs_are_sea_witches_and_spawn] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Slithering -- Sea Witches & Spawn Mobs
+// [map_packs_are_solaris] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Solar -- Solaris mobs
+// [map_packs_fire_projectiles] >= "2" && [Rarity] == "Magic" # [RerollMods] == "true" // Splitting -- Monsters fire 2 additional Projectiles
+// [is_twinned_unique_boss] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Twinned -- 2X Unique Bosses
+// [map_packs_are_undead_and_necromancers] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Undead -- Undead Mobs
+// [map_monsters_cannot_be_taunted] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Unstoppable -- Mobs cannot be slowed/taunted
+
+// __ Scaling Prefix Mods -- percentages/values increase with map tiers
+// [map_monsters_additional_physical_damage_reduction] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Armoured -- +% Monster Phys Dmg Reduction
+// [map_monsters_%_physical_damage_to_add_as_fire] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Burning -- Monsters Deal +% Extra Fire Dmg
+// [map_monsters_life_+%] >= "20" && [Rarity] == "Magic" # [RerollMods] == "true" // Fecund -- +% More Monsters Life
+// [map_monsters_%_chance_to_inflict_status_ailments] >= "20" && [Rarity] == "Magic" # [RerollMods] == "true" // Empowered -- Mobs have % chance to cause status ailments
+// [map_monsters_movement_speed_+%] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Fleet -- +% Increased Monster Movement/Attack/Cast Speed
+// [map_monsters_%_physical_damage_to_add_as_cold] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Freezing -- Monsters Deal +% Extra Cold Dmg
+// [map_monsters_are_hexproof] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Hexproof -- Monsters are Hexproof
+// [map_monsters_curse_effect_on_self_+%_final] < "0" && [Rarity] == "Magic" # [RerollMods] == "true" // Hexwarded -- Less effect of curses on mobs
+// [map_monsters_avoid_poison_blind_bleed_%] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Impervious -- Mobs have chance to avoid Poison/Blind/Bleed
+
+// [map_boss_attack_and_cast_speed_+%] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Overlord's -- Unique Boss Deals +% Dmg/ Has +% Attack & Cast Speed
+// [map_monsters_additional_chaos_resistance] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Resistant -- Mobs have Chaos/Ele Resistance
+// [map_monsters_damage_+%] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Savage -- +% Monster Dmg
+// [map_monsters_%_physical_damage_to_add_as_lightning] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Shocking -- Monsters Deal +% Extra Lightning Dmg
+// [map_boss_maximum_life_+%] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Titan's -- Unique Boss Has +% Life/ Area of Effect
+// [map_monsters_cannot_be_stunned] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Unwavering -- Monsters Cannot Be Stunned/ +% More Monster Life
+
+// __ Suffix
+// [map_player_has_elemental_equilibrium_keystone] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Balance -- Player Has Elemental Equilibrium
+// [map_magic_pack_mod_rules] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Bloodlines -- More Magic Monsters/ Magic Monsters Have Bloodline Mod
+// [map_monsters_add_endurance_charge_on_hit_%] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Endurance -- Monsters Gain Endurance Charge on Hit
+// [map_monsters_add_frenzy_charge_on_hit_%] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Frenzy -- Monsters Gain Frenzy Charge on Hit
+// [map_monsters_add_power_charge_on_hit_%] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Power -- Monsters Gain Power Charge on Hit
+// [map_players_have_point_blank] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Skirmishing -- Players have Point Blank
+// [map_monsters_poison_on_hit] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Venom -- Monsters Poison on Hit
+
+// __ Scaling Suffix Mods -- percentages/values increase with map tiers
+// [map_monsters_life_leech_resistance_%] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Congealment -- Cannot Leech Life/Mana From Monsters
+// [map_monsters_critical_strike_chance_+%] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Deadliness -- Monsters have +% Crit Chance/ +% Crit Multiplier
+// [map_base_ground_desecration_damage_to_deal_per_minute] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Desecration -- Area Has Patches of Desecrated Ground
+// [map_player_charges_gained_+%] < "0" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Drought - Players gain reduced Flask Charges
+// [map_player_has_level_X_elemental_weakness] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Elemental Weakness -- Players are cursed with Elemental Weakness
+// [map_player_has_level_X_enfeeble] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Enfeeblement -- Players are cursed with Enfeeble
+// [map_additional_player_maximum_resistances_%] < "0" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Exposure -- (-X to -X)% maximum Player Resistances
+// [map_base_ground_fire_damage_to_deal_per_minute] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Flames -- Area has patches of burning ground
+// [map_monsters_area_of_effect_+%] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Giants -- Monsters have % increased Area of Effect
+// [map_ground_ice] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Ice -- Area has patches of chilled ground
+// [map_players_skill_area_of_effect_+%_final] < "0" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Impotence -- Players have % less Area of Effect
+// [map_monsters_avoid_ailments_%] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Insulation -- Monsters have +% Chance to Avoid Status Elemental Ailments
+// [map_ground_lightning] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Lightning -- Area has patches of shocking ground
+// [map_monsters_accuracy_rating_+%] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Miring -- Players Dodge chance in unlucky/Mobs have +% Accuracy
+// [map_players_block_chance_+%] < "0" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Rust -- Players have -% Block Chance/ -% Less Armour
+// [map_player_life_and_es_recovery_speed_+%_final] < "0" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Smothering -- Players Recover Life, Mana and Energy Shield % slower
+
+// [map_player_has_level_X_temporal_chains] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Temporal Chains -- Players are cursed with Temporal Chains
+// [map_monsters_base_self_critical_strike_multiplier_-%] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Toughness -- Mobs take reduced Crit Damage
+// [map_player_has_level_X_vulnerability] >= "1" && [Rarity] == "Magic" # [RerollMods] == "true" // Of Vulnerability -- Players are cursed with Vulnerability
+
+
+// 6 -- Map Mods Ignore
+// __ Prefix
+// [map_packs_are_abomination_monsters] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Abhorrent - Monsters are abominations
+// [map_packs_are_abomination_monsters] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Abhorrent - Monsters are abominations
+// [map_spawn_extra_exiles] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Anarchic -- 2+ Rogue Exiles
+// [map_spawn_extra_exiles] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Anarchic -- 2+ Rogue Exiles
+// [map_rare_monsters_have_nemesis_mod] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Antagonist's -- Nemesis Mod
+// [map_rare_monsters_have_nemesis_mod] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Antagonist's -- Nemesis Mod
+// [map_packs_are_humanoids] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Bipedal -- Humanoid Mobs
+// [map_packs_are_humanoids] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Bipedal -- Humanoid Mobs
+// [map_packs_are_goatmen] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Capricious -- Goatmen Mobs
+// [map_packs_are_goatmen] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Capricious -- Goatmen Mobs
+// [map_packs_are_totems] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Ceremonial -- Contains Totems
+// [map_packs_are_totems] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Ceremonial -- Contains Totems
+// [map_monster_skills_chain_X_additional_times] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Chaining -- Chain +2 Times
+// [map_monster_skills_chain_X_additional_times] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Chaining -- Chain +2 Times
+// [map_monsters_always_ignite] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Conflagrating -- All Monster Damage from Hits always Ignites
+// [map_monsters_always_ignite] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Conflagrating -- All Monster Damage from Hits always Ignites
+// [map_packs_are_demons] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Demonic -- Demon Mobs
+// [map_packs_are_demons] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Demonic -- Demon Mobs
+// [map_packs_fire_projectiles] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Emanant -- Nemesis Mod
+// [map_packs_fire_projectiles] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Emanant -- Nemesis Mod
+// [map_packs_are_kitava] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Feasting - not sure it works
+// [map_packs_are_kitava] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Feasting - not sure it works
+// [map_packs_are_animals] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Feral -- Animal Mobs
+// [map_packs_are_animals] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Feral -- Animal Mobs
+// [map_packs_are_ghosts] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Haunting - Ghosts
+// [map_packs_are_ghosts] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Haunting - Ghosts
+// [map_packs_are_lunaris] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Lunar - Lunaris mobs
+// [map_packs_are_lunaris] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Lunar - Lunaris mobs
+// [map_additional_number_of_packs_to_choose] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Multifarious -- Increased Variety Mobs
+// [map_additional_number_of_packs_to_choose] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Multifarious -- Increased Variety Mobs
+// [map_beyond_chance_%] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Otherworldly -- Beyond Spawned Mobs
+// [map_beyond_chance_%] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Otherworldly -- Beyond Spawned Mobs
+// [map_packs_are_skeletons] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Skeletal -- Skeleton Mobs 
+// [map_packs_are_skeletons] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Skeletal -- Skeleton Mobs 
+// [map_packs_are_sea_witches_and_spawn] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Slithering -- Sea Witches & Spawn Mobs
+// [map_packs_are_sea_witches_and_spawn] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Slithering -- Sea Witches & Spawn Mobs
+// [map_packs_are_solaris] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Solar -- Solaris mobs
+// [map_packs_are_solaris] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Solar -- Solaris mobs
+// [map_packs_fire_projectiles] >= "2" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Splitting -- Monsters fire 2 additional Projectiles
+// [map_packs_fire_projectiles] >= "2" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Splitting -- Monsters fire 2 additional Projectiles
+// [is_twinned_unique_boss] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Twinned -- 2X Unique Bosses
+// [is_twinned_unique_boss] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Twinned -- 2X Unique Bosses
+// [map_packs_are_undead_and_necromancers] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Undead -- Undead Mobs
+// [map_packs_are_undead_and_necromancers] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Undead -- Undead Mobs
+// [map_monsters_cannot_be_taunted] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Unstoppable -- Mobs cannot be slowed/taunted
+// [map_monsters_cannot_be_taunted] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Unstoppable -- Mobs cannot be slowed/taunted
+
+// __ Scaling Prefix Mods -- percentages/values increase with map tiers
+// [map_monsters_additional_physical_damage_reduction] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Armoured -- +% Monster Phys Dmg Reduction
+// [map_monsters_additional_physical_damage_reduction] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Armoured -- +% Monster Phys Dmg Reduction
+// [map_monsters_%_physical_damage_to_add_as_fire] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Burning -- Monsters Deal +% Extra Fire Dmg
+// [map_monsters_%_physical_damage_to_add_as_fire] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Burning -- Monsters Deal +% Extra Fire Dmg
+// [map_monsters_%_chance_to_inflict_status_ailments] >= "20" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Empowered -- Mobs have % chance to cause status ailments
+// [map_monsters_%_chance_to_inflict_status_ailments] >= "20" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Empowered -- Mobs have % chance to cause status ailments
+// [map_monsters_life_+%] >= "20" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Fecund -- +% More Monsters Life
+// [map_monsters_life_+%] >= "20" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Fecund -- +% More Monsters Life
+// [map_monsters_movement_speed_+%] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Fleet -- +% Increased Monster Movement/Attack/Cast Speed
+// [map_monsters_movement_speed_+%] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Fleet -- +% Increased Monster Movement/Attack/Cast Speed
+// [map_monsters_%_physical_damage_to_add_as_cold] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Freezing -- Monsters Deal +% Extra Cold Dmg
+// [map_monsters_%_physical_damage_to_add_as_cold] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Freezing -- Monsters Deal +% Extra Cold Dmg
+// [map_monsters_are_hexproof] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Hexproof -- Curse Immune
+// [map_monsters_are_hexproof] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Hexproof -- Curse Immune
+// [map_monsters_curse_effect_on_self_+%_final] < "0" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Hexwarded -- Less effect of curses on mobs
+// [map_monsters_curse_effect_on_self_+%_final] < "0" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Hexwarded -- Less effect of curses on mobs
+// [map_monsters_avoid_poison_blind_bleed_%] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Impervious -- Mobs have chance to avoid Poison/Blind/Bleed
+// [map_monsters_avoid_poison_blind_bleed_%] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Impervious -- Mobs have chance to avoid Poison/Blind/Bleed
+
+// [map_boss_attack_and_cast_speed_+%] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Overlord's -- Unique Boss Deals +% Dmg/ Has +% Attack & Cast Speed
+// [map_boss_attack_and_cast_speed_+%] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Overlord's -- Unique Boss Deals +% Dmg/ Has +% Attack & Cast Speed
+// [map_monsters_additional_chaos_resistance] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Resistant -- Mobs have Chaos/Ele Resistance
+// [map_monsters_additional_chaos_resistance] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Resistant -- Mobs have Chaos/Ele Resistance
+// [map_monsters_damage_+%] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Savage -- +% Monster Dmg
+// [map_monsters_damage_+%] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Savage -- +% Monster Dmg
+// [map_monsters_%_physical_damage_to_add_as_lightning] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Shocking -- Monsters Deal +% Extra Lightning Dmg
+// [map_monsters_%_physical_damage_to_add_as_lightning] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Shocking -- Monsters Deal +% Extra Lightning Dmg
+// [map_monsters_additional_number_of_projecitles] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Splitting -- Monsters Fire X Additional Projectiles
+// [map_monsters_additional_number_of_projecitles] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Splitting -- Monsters Fire X Additional Projectiles
+// [map_boss_damage_+%] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Titan's -- Unique Boss Has +% Life/ Area of Effect
+// [map_boss_damage_+%] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Titan's -- Unique Boss Has +% Life/ Area of Effect
+// [map_monsters_cannot_be_stunned] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Unwavering -- Monsters Cannot Be Stunned/ +% More Monster Life
+// [map_monsters_cannot_be_stunned] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Unwavering -- Monsters Cannot Be Stunned/ +% More Monster Life
+
+// __ Suffix
+// [map_player_has_elemental_equilibrium_keystone] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Balance -- Player Has Elemental Equilibrium
+// [map_player_has_elemental_equilibrium_keystone] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Balance -- Player Has Elemental Equilibrium
+// [map_magic_pack_mod_rules] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Bloodlines -- More Magic Monsters/ Magic Monsters Have Bloodline Mod
+// [map_magic_pack_mod_rules] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Bloodlines -- More Magic Monsters/ Magic Monsters Have Bloodline Mod
+// [map_monsters_add_endurance_charge_on_hit_%] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Endurance -- Monsters Gain Endurance Charge on Hit
+// [map_monsters_add_endurance_charge_on_hit_%] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Endurance -- Monsters Gain Endurance Charge on Hit
+// [map_monsters_add_frenzy_charge_on_hit_%] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Frenzy -- Monsters Gain Frenzy Charge on Hit
+// [map_monsters_add_frenzy_charge_on_hit_%] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Frenzy -- Monsters Gain Frenzy Charge on Hit
+// [map_monsters_add_power_charge_on_hit_%] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Power -- Monsters Gain Power Charge on Hit
+// [map_monsters_add_power_charge_on_hit_%] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Power -- Monsters Gain Power Charge on Hit
+// [map_players_have_point_blank] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Skirmishing -- Players have Point Blank
+// [map_players_have_point_blank] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Skirmishing -- Players have Point Blank
+// [map_monsters_poison_on_hit] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Venom -- Monsters Poison on Hit
+// [map_monsters_poison_on_hit] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Venom -- Monsters Poison on Hit
+
+// __ Scaling Suffix Mods -- percentages/values increase with map tiers
+// [map_monsters_life_leech_resistance_%] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Congealment -- Cannot Leech Life/Mana From Monsters
+// [map_monsters_life_leech_resistance_%] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Congealment -- Cannot Leech Life/Mana From Monsters
+// [map_monsters_critical_strike_chance_+%] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Deadliness -- Monsters have +% Crit Chance/ +% Crit Multiplier
+// [map_monsters_critical_strike_chance_+%] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Deadliness -- Monsters have +% Crit Chance/ +% Crit Multiplier
+// [map_base_ground_desecration_damage_to_deal_per_minute] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Desecration -- Area Has Patches of Desecrated Ground
+// [map_base_ground_desecration_damage_to_deal_per_minute] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Desecration -- Area Has Patches of Desecrated Ground
+// [map_player_charges_gained_+%] < "0" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Drought - Players gain reduced Flask Charges
+// [map_player_charges_gained_+%] < "0" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Drought - Players gain reduced Flask Charges
+// [map_player_has_level_X_elemental_weakness] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Elemental Weakness -- Players are cursed with Elemental Weakness
+// [map_player_has_level_X_elemental_weakness] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Elemental Weakness -- Players are cursed with Elemental Weakness
+// [map_player_has_level_X_enfeeble] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Enfeeblement -- Players are cursed with Enfeeble
+// [map_player_has_level_X_enfeeble] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Enfeeblement -- Players are cursed with Enfeeble
+// [map_additional_player_maximum_resistances_%] < "0" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Exposure -- (-X to -X)% maximum Player Resistances
+// [map_additional_player_maximum_resistances_%] < "0" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Exposure -- (-X to -X)% maximum Player Resistances
+// [map_base_ground_fire_damage_to_deal_per_minute] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Flames -- Area has patches of burning ground
+// [map_base_ground_fire_damage_to_deal_per_minute] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Flames -- Area has patches of burning ground
+// [map_monsters_area_of_effect_+%] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Giants -- Monsters have % increased Area of Effect
+// [map_monsters_area_of_effect_+%] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Giants -- Monsters have % increased Area of Effect
+// [map_ground_ice] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Ice -- Area has patches of chilled ground
+// [map_ground_ice] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Ice -- Area has patches of chilled ground
+// [map_players_skill_area_of_effect_+%_final] < "0" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Impotence -- Players have % less Area of Effect
+// [map_players_skill_area_of_effect_+%_final] < "0" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Impotence -- Players have % less Area of Effect
+// [map_monsters_avoid_ailments_%] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Insulation -- Monsters have +% Chance to Avoid Status Elemental Ailments
+// [map_monsters_avoid_ailments_%] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Insulation -- Monsters have +% Chance to Avoid Status Elemental Ailments
+// [map_ground_lightning] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Lightning -- Area has patches of shocking ground
+// [map_ground_lightning] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Lightning -- Area has patches of shocking ground
+// [map_player_life_and_es_recovery_speed_+%_final] < "0" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Smothering -- Players Recover Life, Mana and Energy Shield % slower
+// [map_player_life_and_es_recovery_speed_+%_final] < "0" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Smothering -- Players Recover Life, Mana and Energy Shield % slower
+// [map_monsters_accuracy_rating_+%] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Miring -- Players Dodge chance in unlucky/Mobs have +% Accuracy
+// [map_monsters_accuracy_rating_+%] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Miring -- Players Dodge chance in unlucky/Mobs have +% Accuracy
+// [map_players_block_chance_+%] < "0" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Rust -- Players have -% Block Chance/ -% Less Armour
+// [map_players_block_chance_+%] < "0" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Rust -- Players have -% Block Chance/ -% Less Armour
+// [map_players_no_regeneration_including_es] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Statis -- Players have no Life or Mana Regeneration
+
+// [map_player_has_level_X_temporal_chains] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Temporal Chains -- Players are cursed with Temporal Chains
+// [map_player_has_level_X_temporal_chains] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Temporal Chains -- Players are cursed with Temporal Chains
+// [map_monsters_base_self_critical_strike_multiplier_-%] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Toughness -- Mobs take reduced Crit Damage
+// [map_monsters_base_self_critical_strike_multiplier_-%] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Toughness -- Mobs take reduced Crit Damage
+// [map_player_has_level_X_vulnerability] >= "1" && [Rarity] == "Magic" # [IgnoreMap] == "true" // Of Vulnerability -- Players are cursed with Vulnerability
+// [map_player_has_level_X_vulnerability] >= "1" && [Rarity] == "Rare" # [IgnoreMap] == "true" // Of Vulnerability -- Players are cursed with Vulnerability
+
+
+// -- 7 Unique Maps Ignore - not supported
+[Type] == "Overgrown Shrine Map" 	&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Acton's Nightmare
+[Type] == "Siege Map" 				&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Altered Distant Memory
+[Type] == "Underground River Map" 	&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Caer Blaidd, Wolfpack's Den
+[Type] == "Relic Chambers Map" 		&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Cortex
+[Type] == "Necropolis Map" 			&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Death and Taxes
+[Type] == "Maze Map" 				&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Doryani's Machinarium
+[Type] == "Promenade Map" 			&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Hall of Grandmasters
+[Type] == "Cemetery Map" 			&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Hallowed Ground
+[Type] == "Atoll Map" 				&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Maelström of Chaos
+[Type] == "Shore Map" 				&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Mao Kun
+[Type] == "Underground Sea Map" 	&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Oba's Cursed Trove
+[Type] == "Bone Crypt Map" 			&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Olmec's Sanctum
+[Type] == "Dunes Map" 				&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Pillars of Arun
+[Type] == "Temple Map" 				&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Poorjoy's Asylum
+[Type] == "Basilica Map" 			&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Rewritten Distant Memory
+[Type] == "Harbinger Map" 			&& [Rarity] == "Unique" # [IgnoreMap] == "true" // The Beachhead, Infused Beachhead
+[Type] == "Cursed Crypt Map" 		&& [Rarity] == "Unique" # [IgnoreMap] == "true" // The Coward's Trial
+[Type] == "Chateau Map" 			&& [Rarity] == "Unique" # [IgnoreMap] == "true" // The Perandus Manor
+[Type] == "Museum Map" 				&& [Rarity] == "Unique" # [IgnoreMap] == "true" // The Putrid Cloister
+[Type] == "Moon Temple Map" 		&& [Rarity] == "Unique" # [IgnoreMap] == "true" // The Twilight Temple
+[Type] == "Courtyard Map" 			&& [Rarity] == "Unique" # [IgnoreMap] == "true" // The Vinktar Square
+[Type] == "Park Map" 				&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Twisted Distant Memory
+[Type] == "Tropical Island Map" 	&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Untainted Paradise
+[Type] == "Vaal Pyramid Map" 		&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Vaults of Atziri
+[Type] == "Strand Map" 				&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Whakawairua Tuahu
+[Type] == "Courthouse Map" 			&& [Rarity] == "Unique" # [IgnoreMap] == "true" // Augmented Distant Memory
+
+
+// 8 -- Original intro 
+// Welcome to the Map runner configuration file. Syntax is the same as in Pickit/default.ipd.
+// Keys available: [RunMap], [IgnoreMap], [MapTier], [UpgradeQuality], [UpgradeToMagic], [UpgradeToRare], [RerollMods], [UpgradeMapTier], [SkipBossArena].
+// Please note that [IgnoreMap] has higher priority than other keys.
+// Please note that [SkipBossArena] needs bot to open Map for it to work, if you open it and then start the bot it won't work.
+// Whenever you use the "less than" symbol (<) for MapTier, you'll need to add [MapTier] >= "66" (could be more than 66 but never less). This is to avoid bug, sry about that.
+// Map upgrading will only be made on a Map that has been selected by the bot to farm.
+// All the Map mods can be found in ModsList.html file.
+// Big thanks to jps42 for updating and improving this file.
+// Example: Run rare Maps level less than 3
+// [MapTier] >= "1" && [MapTier] < "3" && [Rarity] == "Rare" # [RunMap] == "true"
+
+
+// 9 -- Post Script
+// Priority list of actions is: [UpgradeMapTier](3) >> [IgnoreMap] >> [UpgradeToRare] >> [UpgradeToMagic] >> [RunMap]
+// If you enabled UpgradeMapTier and RunMap simultaneously for a Map, the bot will run that Map
+// created by Impuls, updated by Kintaro

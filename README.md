@@ -1,7 +1,9 @@
 # EB-POENINJA-TO-IPD
 JSON to IPD
 
-usage -> poe_ninja_json_to_ipd.ahk -> generate_IPD.ahk
+AKH v1 required -> https://www.autohotkey.com/download/ahk-install.exe
+
+usage -> PoeNinja_JSON_IPD.ahk -> _CREATE_PICKIT.ahk - > _CREATE_MAPS.ahk
 
        The script uses a Library from https://github.com/cocobelgica/AutoHotkey-JSON
        to convert a given JSON file into ExileBot usable IPD structure. JSON data is
@@ -12,13 +14,15 @@ usage -> poe_ninja_json_to_ipd.ahk -> generate_IPD.ahk
        Each entry will receive it's own named output file respectively. The RAW
        JSON data remains untouched for verification purposes.
 
-       Everything is pulled by default! You have to go into poe_ninja_json_to_ipd.ahk
+       Everything is pulled by default! You have to go into PoeNinja_JSON_IPD.ahk
        and adjust the values at the very top of the file to your needs.
 
        UNID- chaos recipe is the default behavior!
-       Edit "\dependencies\__IPD_TEMPLATE.IPD" to generate different outcomes.
+       Edit "\dependencies\__IPD_TEMPLATE.IPD" to generate different PICKIT outcomes.
+       Edit "\dependencies\__MAPS_TEMPLATE.IPD" to generate different MAP outcomes.
 
-       Check the template past line 250 to remove most likely "deprecated" stuff.
+       PICKIT -> check the template past line 250 to remove most likely "deprecated" stuff.
+       MAP -> check section 3 to set ignored maps and similar correctly
 
        Feedback please to kintaro_oe Discord - or channel #pickit-ipd
 

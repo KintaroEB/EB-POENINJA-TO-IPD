@@ -3,7 +3,7 @@ JSON to IPD
 
 AKH v1 required -> https://www.autohotkey.com/download/ahk-install.exe
 
-usage -> PoeNinja_JSON_IPD.ahk -> _CREATE_PICKIT.ahk - > _CREATE_MAPS.ahk
+usage -> delete current generated IPDs -> PoeNinja_JSON_IPD.ahk -> _CREATE_PICKIT.ahk - > _CREATE_MAPS.ahk
 
        The script uses a Library from https://github.com/cocobelgica/AutoHotkey-JSON
        to convert a given JSON file into ExileBot usable IPD structure. JSON data is

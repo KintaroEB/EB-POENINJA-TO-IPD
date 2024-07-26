@@ -43,7 +43,6 @@ chaosValues["DeliriumOrb"]      := 0.0
 chaosValues["Omen"]             := 0.0
 chaosValues["Invitation"]       := 0.0
 chaosValues["Memory"]           := 0.0
-chaosValues["AllflameEmber"]    := 0.0
 
 ; values lower -> "ForceSellItem"
 chaosValues["UniqueMap"]        := 999999.0
@@ -89,7 +88,6 @@ allCategories := [   "Currency"
                     ,"Omen"
                     ,"Invitation"
                     ,"Memory"
-                    ,"AllflameEmber"
                     ,"UniqueMap"
                     ,"UniqueJewel"
                     ,"UniqueFlask"

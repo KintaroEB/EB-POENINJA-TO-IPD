@@ -65,7 +65,7 @@ chaosValues["Map"]              := 0.0
 
 
 ; current league name - case sensitive!
-league := "Necropolis"
+league := "Settlers"
 
 /**
 *   see full list of available categories here:

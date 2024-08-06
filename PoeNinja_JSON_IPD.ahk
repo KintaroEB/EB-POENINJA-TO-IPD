@@ -31,26 +31,26 @@ chaosValues := {}
 
 ; values greater -> "StashItem"
 chaosValues["Currency"]         := 0.0
-chaosValues["Fragment"]         := 0.0
-chaosValues["Oil"]              := 0.0
-chaosValues["Incubator"]        := 0.0
-chaosValues["Scarab"]           := 0.0
+chaosValues["Fragment"]         := 5.0
+chaosValues["Oil"]              := 1.0
+chaosValues["Incubator"]        := 5.0
+chaosValues["Scarab"]           := 5.0
 chaosValues["Fossil"]           := 0.0
 chaosValues["Resonator"]        := 0.0
-chaosValues["Essence"]          := 0.0
-chaosValues["DivinationCard"]   := 0.0
-chaosValues["DeliriumOrb"]      := 0.0
-chaosValues["Omen"]             := 0.0
+chaosValues["Essence"]          := 2.0
+chaosValues["DivinationCard"]   := 2.0
+chaosValues["DeliriumOrb"]      := 5.0
+chaosValues["Omen"]             := 5.0
 chaosValues["Invitation"]       := 0.0
 chaosValues["Memory"]           := 0.0
 
 ; values lower -> "ForceSellItem"
 chaosValues["UniqueMap"]        := 999999.0
-chaosValues["UniqueJewel"]      := 999999.0
-chaosValues["UniqueFlask"]      := 999999.0
-chaosValues["UniqueWeapon"]     := 999999.0
-chaosValues["UniqueArmour"]     := 999999.0
-chaosValues["UniqueAccessory"]  := 999999.0
+chaosValues["UniqueJewel"]      := 9.0
+chaosValues["UniqueFlask"]      := 9.0
+chaosValues["UniqueWeapon"]     := 9.0
+chaosValues["UniqueArmour"]     := 9.0
+chaosValues["UniqueAccessory"]  := 9.0
 
 /**
 *   5 and 6 link bodyarmors/weapons are ignored
@@ -203,7 +203,14 @@ for indexA, category in allCategories
                     || category == "Fragment" )
         {
 
-            if ( (category == "Currency") && (indexB == 1) ) {
+            if ( (item.currencyTypeName == "Scroll of Wisdom") || (item.currencyTypeName == "Portal Scroll") )
+            {
+                continue
+            }
+
+
+            if ( (category == "Currency") && (indexB == 1) )
+            {
                 chaosLine := "[Type] == ""Chaos Orb"" # [StashItem] == ""true"""
                 FileAppend, %chaosLine%`n, %filePath%
             }

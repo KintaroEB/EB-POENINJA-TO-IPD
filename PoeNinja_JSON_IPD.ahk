@@ -31,21 +31,21 @@ chaosValues := {}
 
 ; values greater -> "StashItem"
 chaosValues["Currency"]         := 0.0
-chaosValues["Fragment"]         := 5.0
+chaosValues["Fragment"]         := 4.0
 chaosValues["Oil"]              := 1.0
-chaosValues["Incubator"]        := 5.0
-chaosValues["Scarab"]           := 5.0
+chaosValues["Incubator"]        := 4.0
+chaosValues["Scarab"]           := 1.0
 chaosValues["Fossil"]           := 0.0
 chaosValues["Resonator"]        := 0.0
 chaosValues["Essence"]          := 2.0
 chaosValues["DivinationCard"]   := 2.0
-chaosValues["DeliriumOrb"]      := 5.0
+chaosValues["DeliriumOrb"]      := 1.0
 chaosValues["Omen"]             := 5.0
 chaosValues["Invitation"]       := 0.0
 chaosValues["Memory"]           := 0.0
 
 ; values lower -> "ForceSellItem"
-chaosValues["UniqueMap"]        := 999999.0
+chaosValues["UniqueMap"]        := 9.0
 chaosValues["UniqueJewel"]      := 9.0
 chaosValues["UniqueFlask"]      := 9.0
 chaosValues["UniqueWeapon"]     := 9.0
@@ -65,7 +65,7 @@ chaosValues["Map"]              := 0.0
 
 
 ; current league name - case sensitive!
-league := "Settlers"
+league := "Mercenaries"
 
 /**
 *   see full list of available categories here:

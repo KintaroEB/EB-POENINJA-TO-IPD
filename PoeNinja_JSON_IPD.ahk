@@ -65,7 +65,7 @@ chaosValues["Map"]              := 0.0
 
 
 ; current league name - case sensitive!
-league := "Mercenaries"
+league := "Keepers"
 
 /**
 *   see full list of available categories here:
@@ -303,4 +303,5 @@ DllCall("winmm\PlaySound" (A_IsUnicode?"W":"A"), Str,"none", Ptr,0, UInt,0x20000
 
 Gui, Destroy
 MsgBox, JSON to IPD finished!
+
 ExitApp

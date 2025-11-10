@@ -3,7 +3,7 @@
 //DateAndTime
 //
 // Now entirely automated generation with:  https://github.com/KintaroEB/EB-JSON-IPD
-// Data used from poe.ninja/api/ : https://github.com/ayberkgezer/poe.ninja-API-Document
+// Data used from poe.ninja/api/
 // Feedback please to @kintaro_oe Discord - or channel #pickit-ipd
 //
 //
@@ -44,33 +44,43 @@
 //
 //
 /////////////////////////////////////////////////////////////////////////////////////
-//                                                                                 //
 //                                    BOOKMARKS                                    //
-//                                                                                 //
 /////////////////////////////////////////////////////////////////////////////////////
 //
 // Chaos Recipe
 // Currency
 // Fragment
+// Runegraft
+// AllflameEmber
+// Tattoo
+// Omen
+// DivinationCard
+// Artifact
 // Oil
-// Incubators
+// DeliriumOrb
 // Scarab
 // Fossil
 // Resonator
 // Essence
-// DivinationCard
-// DeliriumOrb
-// Omen
+// Incubators
 // Invitation
 // Memory
+// Beast
+// Vial
 // Sockets
 // Maps
-// Unique Items
+// - Unique Items
+// UniqueWeapon
+// UniqueArmour
+// UniqueAccessory
+// UniqueFlask
+// UniqueJewel
+// UniqueTincture
+// UniqueRelic
+// UniqueMap
 //
 /////////////////////////////////////////////////////////////////////////////////////
-//                                                                                 //
 //                            	   CHAOS RECIPE                                    //
-//                                                                                 //
 /////////////////////////////////////////////////////////////////////////////////////
 //
 // Use the following lines in case you want to identify all Rares for Alteration farm
@@ -92,29 +102,31 @@
 
 
 /////////////////////////////////////////////////////////////////////////////////////
-//                                                                                 //
 //                                  CURRENCY                                       //
-//                                                                                 //
 /////////////////////////////////////////////////////////////////////////////////////
 
 //Currency
 //Fragment
+//Runegraft
+//AllflameEmber
+//Tattoo
+//Omen
+//DivinationCard
+//Artifact
 //Oil
-//Incubator
+//DeliriumOrb
 //Scarab
 //Fossil
 //Resonator
 //Essence
-//DivinationCard
-//DeliriumOrb
-//Omen
+//Incubator
 //Invitation
 //Memory
+//Beast
+//Vial
 
 /////////////////////////////////////////////////////////////////////////////////////
-//                                                                                 //
 //                                  SOCKETS                                        //
-//                                                                                 //
 /////////////////////////////////////////////////////////////////////////////////////
 [Sockets] == "6" && [Linked] >= "6" 	# [StashItem] =="true" // Keep 6L6S
 
@@ -123,9 +135,7 @@
 [Sockets] == "6" && [Linked] <= "5" && [Rarity] == "Rare" 		# [SellUnid] == "true" // Sell 6S Rare
 
 /////////////////////////////////////////////////////////////////////////////////////
-//                                                                                 //
 //                                     MAPS                                        //
-//                                                                                 //
 /////////////////////////////////////////////////////////////////////////////////////
 
 // Take all maps - Handling what maps to run is done in the Map.ipd
@@ -146,19 +156,47 @@
 
 
 /////////////////////////////////////////////////////////////////////////////////////
-//                                                                                 //
 //                                 UNIQUE ITEMS                                    //
-//                                                                                 //
 /////////////////////////////////////////////////////////////////////////////////////
 
 // DO NOT COMMENT THIS LINE - "ForceSellItem" is used for each low value unique
 [Rarity] == "Unique" # [StashItem] == "true"
 
+//////////////////////////////////////////////
+//                   Weapons                //
+//////////////////////////////////////////////
+// all Weapons          					//
+//////////////////////////////////////////////
+//UniqueWeapon
+
 
 //////////////////////////////////////////////
-//                                          //
+//                  Armour                  //
+//////////////////////////////////////////////
+// Boots, Gloves, Helmets, Shields, Chests, //
+// Quivers									//
+//////////////////////////////////////////////
+//UniqueArmour
+
+
+//////////////////////////////////////////////
+//               Accessories                //
+//////////////////////////////////////////////
+// Amus, Rings, Belts						//
+//////////////////////////////////////////////
+//UniqueAccessory
+
+
+//////////////////////////////////////////////
+//                   Flasks                 //
+//////////////////////////////////////////////
+// all Flasks          						//
+//////////////////////////////////////////////
+//UniqueFlask
+
+
+//////////////////////////////////////////////
 //                  Jewels                  //
-//                                          //
 //////////////////////////////////////////////
 
 // Jewels
@@ -178,66 +216,29 @@
 
 //UniqueJewel
 
-//////////////////////////////////////////////
-//                                          //
-//                   Flasks                 //
-//                                          //
-//////////////////////////////////////////////
-// all Flasks          						//
-//////////////////////////////////////////////
-//UniqueFlask
 
 //////////////////////////////////////////////
-//                                          //
-//                   Weapons                //
-//                                          //
+//                Tinctures                 //
 //////////////////////////////////////////////
-// all Weapons          					//
+// all Tinctures       						//
 //////////////////////////////////////////////
-//UniqueWeapon
+//UniqueTincture
 
-//////////////////////////////////////////////
-//                                          //
-//                  Armour                  //
-//                                          //
-//////////////////////////////////////////////
-// Boots, Gloves, Helmets, Shields, Chests, //
-// Quivers									//
-//////////////////////////////////////////////
-//UniqueArmour
 
 //////////////////////////////////////////////
-//                                          //
-//               Accessories                //
-//                                          //
+//                 Relics                   //
 //////////////////////////////////////////////
-// Amus, Rings, Belts						//
+// all Relics       						//
 //////////////////////////////////////////////
-//UniqueAccessory
+//UniqueRelic
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//////////////////////////////////////////////
+//              Unique Maps                 //
+//////////////////////////////////////////////
+// all unique Maps       					//
+//////////////////////////////////////////////
+//UniqueMap
 
 
 
@@ -549,25 +550,25 @@
 
 [Type] == "Rogue's Marker"              # [StashItem] == "true"
 
-[Type] == "Contract: Bunker"			# [ForceSellItem] == "true"
-[Type] == "Contract: Laboratory" 		# [ForceSellItem] == "true"
-[Type] == "Contract: Prohibited Library"   	# [ForceSellItem] == "true"
-[Type] == "Contract: Records Office" 	   	# [ForceSellItem] == "true"
-[Type] == "Contract: Repository" 		# [ForceSellItem] == "true"
-[Type] == "Contract: Smuggler's Den" 	    	# [ForceSellItem] == "true"
-[Type] == "Contract: Tunnels" 			# [ForceSellItem] == "true"
-[Type] == "Contract: Underbelly" 		# [ForceSellItem] == "true"
-[Type] == "Contract: Mansion"               	# [ForceSellItem] == "true"
+// [Type] == "Contract: Bunker"			# [ForceSellItem] == "true"
+// [Type] == "Contract: Laboratory" 		# [ForceSellItem] == "true"
+// [Type] == "Contract: Prohibited Library"   	# [ForceSellItem] == "true"
+// [Type] == "Contract: Records Office" 	   	# [ForceSellItem] == "true"
+// [Type] == "Contract: Repository" 		# [ForceSellItem] == "true"
+// [Type] == "Contract: Smuggler's Den" 	    	# [ForceSellItem] == "true"
+// [Type] == "Contract: Tunnels" 			# [ForceSellItem] == "true"
+// [Type] == "Contract: Underbelly" 		# [ForceSellItem] == "true"
+// [Type] == "Contract: Mansion"               	# [ForceSellItem] == "true"
 
-[Type] == "Blueprint: Bunker" 			# [ForceSellItem] == "true"
-[Type] == "Blueprint: Laboratory" 		# [ForceSellItem] == "true"
-[Type] == "Blueprint: Prohibited Library" 	# [ForceSellItem] == "true"
-[Type] == "Blueprint: Records Office" 		# [ForceSellItem] == "true"
-[Type] == "Blueprint: Repository" 		# [ForceSellItem] == "true"
-[Type] == "Blueprint: Smuggler's Den" 	# [ForceSellItem] == "true"
-[Type] == "Blueprint: Tunnels" 			# [ForceSellItem] == "true"
-[Type] == "Blueprint: Underbelly" 		# [ForceSellItem] == "true"
-[Type] == "Blueprint: Mansion" 			# [ForceSellItem] == "true"
+// [Type] == "Blueprint: Bunker" 			# [ForceSellItem] == "true"
+// [Type] == "Blueprint: Laboratory" 		# [ForceSellItem] == "true"
+// [Type] == "Blueprint: Prohibited Library" 	# [ForceSellItem] == "true"
+// [Type] == "Blueprint: Records Office" 		# [ForceSellItem] == "true"
+// [Type] == "Blueprint: Repository" 		# [ForceSellItem] == "true"
+// [Type] == "Blueprint: Smuggler's Den" 	# [ForceSellItem] == "true"
+// [Type] == "Blueprint: Tunnels" 			# [ForceSellItem] == "true"
+// [Type] == "Blueprint: Underbelly" 		# [ForceSellItem] == "true"
+// [Type] == "Blueprint: Mansion" 			# [ForceSellItem] == "true"
 
 
 
